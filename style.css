@@ -1,0 +1,36 @@
+body {
+   background-color: black;
+}
+
+.hide {
+  background-color: grey;
+  border-radius: 5px; 
+  text-aligh: center;
+  position: absolute;
+  mardin: 0 auto;
+}
+
+.cave-txt {
+  top: 30%;
+  left: 19%;
+}
+
+.northern-txt {
+  top: 40%;
+  left: 0%;
+}
+
+.sourthern-txt{
+  top: 82%;
+  left: 2%;
+}
+
+.bonfire-txt{
+  top: 70%;
+  left: 100%;
+}
+
+.horseman-txt{
+  top: 45%;
+  left: 28%;
+}
