@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="description" content="atptr maps">
+        <meta name="keywords" content="atptr, map, maps">
+        <meta name="author" content="longopy">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Arizone Interactive Map</title>
+        <script type="module" crossorigin src="/assets/penal_colony-0f9acd69.js"></script>
+        <link rel="modulepreload" crossorigin href="/assets/bootstrap.esm-b95ca3b1.js">
+        <link rel="stylesheet" href="/assets/bootstrap-ac467728.css">
+        <link rel="stylesheet" href="/assets/penal-colony-82938c34.css">
+        <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48x48.png">
+        <link rel="manifest" href="/assets/manifest.webmanifest">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="theme-color" content="#fff">
+		<meta name="msapplication-TileColor" content="#fff">
+        <meta name="msapplication-TileImage" content="/assets/mstile-144x144.png">
+        <meta name="msapplication-config" content="/assets/browserconfig.xml">
+        <link rel="yandex-tableau-widget" href="/assets/yandex-browser-manifest.json">
+    </head>
+    <body>
+        <div id="hud">
+            <div id="tag-selector-div">
+                <button id="tag-selector-btn" class="tag-selector-btn btn rounded hud-btn">
+                    <img class="logo" src="/assets/tags.svg" width="20" height="20" alt="tags icon"/>
+                </button>
+                <div id="tag-selector" class="tag-selector rounded">
+                    <div id="tag-selector-content" class="row p-3"></div>
+                </div>
+            </div>
+            <div id="lang-div" class="dropdown lang-div rounded">
+                <div class="btn-group dropdown-center dropend">
+                    <button class="btn lang-btn rounded" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <img src="/assets/language-4bf0b00d.svg" width="30" height="24" alt="language icon"/>
+                    </button>
+                    <div class="dropdown-menu dropdown-menu-wide p-1">
+                        <button class="dropdown-item rounded" href="#" id="change-language-btn">
+                            <span id="lang-btn" class="text-light"></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div id="back-div">
+                <button id="back-btn" onclick="window.location.href='./../index.html'" class="back-btn btn rounded hud-btn">
+                    <img class="logo" src="/assets/back.svg" width="20" height="20" alt="back icon"/>
+                </button>
+            </div>
+            <div id="attributions-div" class="rounded">
+                <button id="attributions-btn" class="btn rounded hud-btn">
+                    <img class="logo" src="/assets/info.svg" width="20" height="20" alt="information icon"/>
+                </button>
+                <div id="attributions-info" class="rounded hud-btn"></div>
+            </div>
+            <div id="map-logo">
+                <img src="/assets/card.png" alt="atptr" height="48" width="288" alt="atptr logo"/>
+            </div>
+        </div>
+        <div id="map" class="map"></div>
+        <div id="popup-name" class="popup-name"></div>
+        <div id="popup-info" class="popup-info"></div>
+        <div id="modal-img" class="modal modal-img">
+            <span id="modal-img-close" class="modal-img-close close" data-dismiss="modal" role="button">&times;</span>
+            <img class="modal-content modal-img-fs img-fluid" id="modal-img-fs" alt="popup image"/>
+        </div>
+    </body>
+</html>
