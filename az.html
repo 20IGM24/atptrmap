@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AZ Page</title>
+  <style>
+    /* CSS styles go here */
+    #svg1 image {
+      transform: scale(0.5); /* Adjust the scale factor as needed */
+    }
+  </style>
+</head>
+<body>
+<!-- This is the text that comes up when an image is clicked -->
+<div id="cave-txt" class="hide"> </div>
+<svg version="1.1" 
+     id="svg1" 
+     width="2730.6667" 
+     height="2730.6667" 
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Include the image using the <image> element -->
+  <image xlink:href="AZMAP.png" width="100%" height="100%" /> <!-- Adjust width and height as needed -->
+  
+  <!-- Add images as points -->
+  <image id="extract-cave" xlink:href="assets/exit.png" x="507" y="396" width="50" height="50" /> <!-- Cave Extraction -->
+</svg>
+
+<!-- Include the JavaScript file -->
+<script src="az.js"></script>
+
+</body>
+</html>

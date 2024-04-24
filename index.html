@@ -1,25 +1,45 @@
-<head> 
-  <!-- Reference to the CSS file in the root folder -->
-  <link rel="stylesheet" href="/azcss.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home Page</title>
+  <style>
+    /* Center the content */
+    .center {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #000; /* Black background color */
+      color: #fff; /* White text color */
+    }
+    /* Style for the image button */
+    .button-img {
+      cursor: pointer; /* Change cursor to pointer on hover */
+    }
+    /* Style for the text container */
+    .text-container {
+      margin-bottom: 20px; /* Add some space below the container */
+    }
+  </style>
 </head>
 <body>
-
-<!-- This is the text that comes up when an image is clicked -->
-<div id="cave-txt" class="hide"> </div>
-
-<svg version="1.1" 
-     id="svg1" 
-     width="2730.6667" 
-     height="2730.6667" 
-     xmlns:xlink="http://www.w3.org/1999/xlink">
-  <!-- Include the image using the <image> element -->
-  <image xlink:href="AZMAP.png" width="100%" height="100%" />
-      
-  <!-- Add images as points -->
-  <image id="extract-cave" xlink:href="assets/exit.png" x="507" y="396" width="50" height="50" /> <!-- Cave Extraction -->
-</svg>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="azjavascript.js"></script>
-
+  <!-- Content container -->
+  <div class="center">
+    <!-- Message -->
+    <h1>Welcome to the Renown Interactive Map!</h1>
+    <!-- Text container -->
+    <div class="text-container">
+      <!-- Text -->
+      <span>Click the button to see the map</span>
+    </div>
+    <!-- Anchor tag with the image acting as a button -->
+    <a href="az.html">
+      <!-- Image -->
+      <img src="assets/card.png" alt="Card Image" class="button-img">
+    </a>
+  </div>
 </body>
+</html>

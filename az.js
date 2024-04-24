@@ -12,3 +12,9 @@ document.getElementById('extract-cave').addEventListener('click', function() {
     <img class="extraction" src="data/locations/cave.png" alt="cave extraction">
   `;
 });
+
+// Add click event listener to close the cave-txt modal
+document.getElementById('cave-txt').addEventListener('click', function() {
+  // Hide the cave-txt popup window by adding the hide class
+  document.getElementById('cave-txt').classList.add('hide');
+});
