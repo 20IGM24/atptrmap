@@ -1,0 +1,41 @@
+body {
+   background-color: grey;
+}
+
+.hide{
+  background-color: rgba(0,0,0,0.6);
+  border-radius: 5px;
+  text-aligh: center;
+  position: absolute;
+  margin: 0 auto;
+  padding: 10px 20px;
+  border: 1px solid #644666;
+  font-size: 12px;
+}
+
+}
+.cave-txt {
+  background-color: grey;
+  top: 75%;
+  left: 5%;
+}
+
+.northern-txt {
+  top: 75%;
+  left: 5%;
+}
+
+.sourthern-txt{
+  top: 130%;
+  left: 10%;
+}
+
+.bonfire-txt{
+  top: 70%;
+  right: -20%;
+}
+
+.horseman-txt{
+  top: 65%;
+  left: 55%;
+}

@@ -4,12 +4,12 @@ $(document).ready(function(){
  
   $(".icave").click(function(){
     $(".hide").hide();
-    $(".cave-txt").toggle();
+    $(".cave-txt").fadeIn(600);
   });
   
   $(".ihorseman").click(function(){
     $(".hide").hide();
-    $(".horseman-txt").toggle();
+    $(".horseman-txt").fadeIn(600);
   });
   
 });
