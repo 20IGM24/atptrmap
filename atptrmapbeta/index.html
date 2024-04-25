@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="description" content="ATPTR maps">
+  <meta name="keywords" content="ATPTR, map, maps">
+  <meta name="author" content="Flaminganus">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ATPTR Map</title>
+</head>
+
+<body>
+  <div id="hud">
+    <div id="lang-div" class="dropdown lang-div rounded">
+      <div class="btn-group dropdown-center dropend">
+        <button class="btn lang-btn rounded" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <img src="./data/icons/language.svg" width="30" height="24" alt="language icon"/>
+        </button>
+        <div class="dropdown-menu dropdown-menu-wide p-1">
+          <button class="dropdown-item rounded" href="#" id="change-language-btn">
+            <span id="lang-btn" class="text-light"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="attributions-div" class="rounded">
+      <button id="attributions-btn" class="btn rounded p-3">
+        <img class="logo" src="./data/icons/info.svg" width="20" height="20" alt="information icon"/>
+      </button>
+      <div id="attributions-info" class="rounded hud-btn">
+      </div>
+    </div>
+  </div>
+  <div class="header">
+    <img class="mx-auto d-block img-fluid" src="./data/logos/atptr.svg" height="72" width="432" alt="A Twisted To Renown logo"></img>
+    <div class="p-5">
+      <div class="container mt-5">
+        <div id="menu-div" class="row">
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="./js/main.js"></script>
+  <script type="module" src="./js/lang.js"></script>
+  <script type="module" src="./js/index.js"></script>
+</body>
+
+</html>

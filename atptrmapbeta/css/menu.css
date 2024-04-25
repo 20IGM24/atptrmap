@@ -1,0 +1,27 @@
+.menu-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.menu-title {
+  font-size: 18px;
+}
+
+.menu-alias {
+  font-size: 15px;
+}
+
+.menu-item {
+  max-width: 350px;
+  color: var(--text-color);
+}
+
+.menu-box-item {
+  border-radius: 5px;
+}
+
+.menu-box-item:hover {
+  transform: scale(1.05, 1.05);
+}
