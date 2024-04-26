@@ -45,7 +45,25 @@
     "category": "extraction",
     "tag": "airlock",
     "position": [-21.70708717713272,52.03466375465125]
+  },
+
+  {
+    "name": {
+      "en": "Unfinished Cabin",
+      "es": "Extracción en Unfinished Cabin"
+    },
+    "imgSrc": "unfinished-log.png",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: 2 patrols 3 man",
+      "es": "Temporizador: 10 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
+    },
+    "category": "extraction",
+    "tag": "airlock",
+    "position": [-21.70708717713272,52.03466375465125]
   }
+
+
 
 
 
