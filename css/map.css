@@ -1,0 +1,70 @@
+.map {
+  width: 100%;
+  height: 100%;
+}
+
+.map .ol-control > button,
+.map .ol-control > button:hover,
+.map .ol-control > button:focus {
+  background-color: var(--background-color) !important;
+  color: var(--text-color);
+  font-size: 1.75rem;
+}
+
+.map .ol-control {
+  background-color: var(--background-color) !important;
+  color: var(--text-color);
+  margin: 10px;
+}
+
+.map .ol-zoom {
+  top: 70px;
+  left: auto;
+  right: 10px;
+}
+
+.popover-body {
+  padding: 0;
+  color: white;
+}
+
+.popup-name-text {
+  margin-bottom: 0;
+  padding: 10px !important;
+  color: var(--text-color);
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.popup-info-card {
+  width: 375px;
+}
+
+.popover {
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+.custom-popover {
+  --bs-popover-border-color: var(--background-color) !important;
+  --bs-popover-header-bg: var(--background-color) !important;
+  --bs-popover-header-color: var(--text-color) !important;
+  --bs-popover-arrow-border: var(--background-color) !important;
+}
+
+#map-logo {
+  position: absolute;
+  z-index: 999;
+  bottom: 20px;
+  right: 100px;
+  text-align: center;
+}
+
+.ol-layer  {
+  z-index: 999;
+}
+
+.hud-btn {
+  padding: 12px;
+}

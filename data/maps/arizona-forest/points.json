@@ -1,0 +1,17 @@
+[
+  {
+    "name": {
+      "en": "Cave Extraction",
+      "es": "Extracción en Cueva"
+    },
+    "imgSrc": "cave.png",
+    "iconName": "airlock.svg",
+    "description": {
+      "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+      "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
+    },
+    "category": "extraction",
+    "tag": "airlock",
+    "position": [-44.53250654022719, 56.77148655455872]
+  }
+]

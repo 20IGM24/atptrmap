@@ -1,0 +1,174 @@
+[
+  {
+    "id": "loot",
+    "iconName": "loot.svg",
+    "name": {
+      "en": "Loot",
+      "es": "Botín"
+    },
+    "color": "#3e92d0",
+    "children": [
+      {
+        "id": "ammo",
+        "iconName": "ammo.svg",
+        "name": {
+          "en": "Ammo",
+          "es": "Munición"
+        }
+      },
+      {
+        "id": "medic_kit",
+        "iconName": "medic_kit.svg",
+        "name": {
+          "en": "Medic kit",
+          "es": "Botiquín"
+        }
+      },
+      {
+        "id": "container",
+        "iconName": "container.svg",
+        "name": {
+          "en": "Container",
+          "es": "Contenedor"
+        }
+      },
+      {
+        "id": "purse",
+        "iconName": "purse.svg",
+        "name": {
+          "en": "Purse",
+          "es": "Monedero"
+        }
+      },
+      {
+        "id": "dead_body",
+        "iconName": "dead_body.svg",
+        "name": {
+          "en": "Dead body",
+          "es": "Cadáver"
+        }
+      },
+      {
+        "id": "blocked_resource_box",
+        "iconName": "blocked_resource_box.svg",
+        "name": {
+          "en": "Blocked Resource box",
+          "es": "Caja bloqueada"
+        }
+      },
+      {
+        "id": "blocked_access",
+        "iconName": "blocked_access.svg",
+        "name": {
+          "en": "Blocked access",
+          "es": "Accesos bloqueados"
+        }
+      },
+      {
+        "id": "depot",
+        "iconName": "depot.svg",
+        "name": {
+          "en": "Depot",
+          "es": "Almacén"
+        }
+      },
+      {
+        "id": "vault",
+        "iconName": "vault.svg",
+        "name": {
+          "en": "vault",
+          "es": "Bóveda"
+        }
+      },
+      {
+        "id": "hidden_stash",
+        "iconName": "hidden_stash.svg",
+        "name": {
+          "en": "Hidden stash",
+          "es": "Alijo oculto"
+        }
+      }
+    ]
+  },
+  {
+    "id": "extraction",
+    "iconName": "extraction.svg",
+    "name": {
+      "en": "Extraction",
+      "es": "Extracción"
+    },
+    "color": "#facd45",
+    "children": [
+      {
+        "id": "escape_pod",
+        "iconName": "escape_pod.svg",
+        "name": {
+          "en": "Escape pod",
+          "es": "Cápsula de escape"
+        }
+      },
+      {
+        "id": "airlock",
+        "iconName": "airlock.svg",
+        "name": {
+          "en": "Air lock",
+          "es": "Exclusa de aire"
+        }
+      }
+    ]
+  },
+  {
+    "id": "mission",
+    "iconName": "mission.svg",
+    "name": {
+      "en": "Mission",
+      "es": "Misión"
+    },
+    "color": "#5db670",
+    "children": [
+      {
+        "id": "zero_to_hero",
+        "iconName": "zero_to_hero.svg",
+        "name": {
+          "en": "Zero to hero",
+          "es": "De cero a héroe"
+        }
+      },
+      {
+        "id": "faction_mission",
+        "iconName": "faction_mission.svg",
+        "name": {
+          "en": "Faction mission",
+          "es": "Misión de facción"
+        }
+      }
+    ]
+  },
+  {
+    "id": "enemy",
+    "iconName": "enemy.svg",
+    "name": {
+      "en": "Enemy",
+      "es": "Enemigo"
+    },
+    "color": "#d43c3c",
+    "children": [
+      {
+        "id": "enemy_spawn",
+        "iconName": "enemy_spawn.svg",
+        "name": {
+          "en": "Enemy spawn",
+          "es": "Aparición de enemigos"
+        }
+      },
+      {
+        "id": "breach_pod",
+        "iconName": "breach_pod.svg",
+        "name": {
+          "en": "Breach pod",
+          "es": "Cápsula enemiga"
+        }
+      }
+    ]
+  }
+]
