@@ -114,6 +114,14 @@
           "en": "Air lock",
           "es": "Exclusa de aire"
         }
+      },
+      {
+        "id": "extract",
+        "iconName": "extract.svg",
+        "name": {
+          "en": "Extraction",
+          "es": "Extraction"
+        }
       }
     ]
   },

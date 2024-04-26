@@ -5,7 +5,7 @@
       "es": "Extracción en Cueva"
     },
     "imgSrc": "cave.png",
-    "iconName": "airlock.svg",
+    "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
       "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
@@ -14,4 +14,43 @@
     "tag": "airlock",
     "position": [-44.53250654022719, 56.77148655455872]
   }
+  ,
+  {
+    "name": {
+      "en": "Bonfire",
+      "es": "Extracción en Bonfire"
+    },
+    "imgSrc": "bonfire.png",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+      "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
+    },
+    "category": "extraction",
+    "tag": "airlock",
+    "position": [52.5625,37.8125]
+  },
+
+  {
+    "name": {
+      "en": "Horseman",
+      "es": "Extracción en Bonfire"
+    },
+    "imgSrc": "horseman.png",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 10 seconds</br>Cost: Free</br>Enemy: None",
+      "es": "Temporizador: 10 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
+    },
+    "category": "extraction",
+    "tag": "airlock",
+    "position": [-21.70708717713272,52.03466375465125]
+  }
+
+
+
+
+
+
+
 ]
