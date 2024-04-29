@@ -1,0 +1,80 @@
+:root {
+  --body-background-color: #997f5c;
+  --background-color: #000000;
+  --text-color: white;
+  --accent-color: #9b3838;
+  --url-color: #c7516f;
+  --btn-disabled-tag-btn-color: #fff;
+  --btn-disabled-tag-child-btn-color: #b4b4b4;
+}
+
+* {
+  font-size: 100%;
+  font-family: Montserrat, sans-serif !important;
+  font-size: 14px;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  color: var(--body-background-color) !important;
+  background: linear-gradient(45deg, #f4d29a 0%, #dbcda2 50%, #f4d29a 100%);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  position: relative;
+  overflow: hidden;
+}
+
+li,
+a {
+  color: var(--url-color) !important;
+  text-decoration: none !important;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+a:hover {
+  color: var(--url-color) !important;
+  text-decoration: underline !important;
+}
+
+.header {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  width: 100%;
+  height: 60px;
+}
+
+.accent-color {
+  color: var(--accent-color);
+}
+
+.card-img-header > div {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+
+.card-img-header > img {
+  position: relative;
+}
+
+.btn:hover {
+  border-color: var(--text-color);
+}
+
+.card {
+  border: 0;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  max-height: 420px;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

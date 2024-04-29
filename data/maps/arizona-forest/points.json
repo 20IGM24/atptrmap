@@ -1,0 +1,1678 @@
+[
+    {
+        "name": {
+            "en": "Cash Register",
+            "es": ""
+        },
+        "imgSrc": "cash register.png",
+        "iconName": "cash register.svg",
+        "description": {
+            "en": "Money in here",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "Cash Register",
+        "position": [
+            -8.214004720692344,
+            11.258851298190393
+        ]
+    },
+    {
+        "name": {
+            "en": "loot Bag",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "loot bag.svg",
+        "description": {
+            "en": "misc items in the bag",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "loot bag",
+        "position": [
+            19.826907946498835,
+            55.727773406766325
+        ]
+    },
+    {
+        "name": {
+            "en": "Diving Helmet",
+            "es": ""
+        },
+        "imgSrc": "diving helmet.png",
+        "iconName": "helmet.svg",
+        "description": {
+            "en": "Loot:",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "helmet",
+        "position": [
+            13.078124999999972,
+            -20.812499999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "backpack</br>Swamp Dead Horse",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "swamp backpack.svg",
+        "description": {
+            "en": "Free Bag",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "backpack",
+        "position": [
+            58.515524397137455,
+            29.711429829188944
+        ]
+    },
+    {
+        "name": {
+            "en": "backpack</br>Shack",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "backpack.svg",
+        "description": {
+            "en": "Free Bag",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "backpack",
+        "position": [
+            -32.76562500000003,
+            -27.210937499999993
+        ]
+    },
+    {
+        "name": {
+            "en": "backpack</br>Swamp Cabin",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "backpack.svg",
+        "description": {
+            "en": "Free Bag",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "backpack",
+        "position": [
+            49.21874999999997,
+            33.890625000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "backpack</br>Humble Camp",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "backpack.svg",
+        "description": {
+            "en": "Free Bag",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "backpack",
+        "position": [
+            -36.59829001089641,
+            48.29425707694917
+        ]
+    },
+    {
+        "name": {
+            "en": "backpack</br>Unfished Cabin",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "backpack.svg",
+        "description": {
+            "en": "Free Bag",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "backpack",
+        "position": [
+            -40.24595929476898,
+            23.680549425039445
+        ]
+    },
+    {
+        "name": {
+            "en": "Deer",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "deer.svg",
+        "description": {
+            "en": "Antlers, hide, meat",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "deer",
+        "position": [
+            61.60503540519278,
+            7.718332022029898
+        ]
+    },
+    {
+        "name": {
+            "en": "Deer",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "deer.svg",
+        "description": {
+            "en": "Antlers, hide, meat",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "deer",
+        "position": [
+            -37.67112509834747,
+            -27.12037765538946
+        ]
+    },
+    {
+        "name": {
+            "en": "Deer",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "deer.svg",
+        "description": {
+            "en": "Antlers, hide, meat",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "deer",
+        "position": [
+            24.18749999999997,
+            -1.1953124999999858
+        ]
+    },
+    {
+        "name": {
+            "en": "Deer",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "deer.svg",
+        "description": {
+            "en": "Antlers, hide, meat",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "deer",
+        "position": [
+            53.99999999999997,
+            -21.164062499999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Boar",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "boar.svg",
+        "description": {
+            "en": "Tusks, hide, meat",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "boar",
+        "position": [
+            59.06249999999997,
+            60.468750000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Boar",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "boar.svg",
+        "description": {
+            "en": "Tusks, hide, meat",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "boar",
+        "position": [
+            31.92187499999997,
+            -46.828124999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Boar",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "boar.svg",
+        "description": {
+            "en": "They have Animal Parts",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "boar",
+        "position": [
+            19.40624999999997,
+            -49.640624999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Boar",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "boar.svg",
+        "description": {
+            "en": "They have Animal Parts",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "boar",
+        "position": [
+            -0.5625000000000284,
+            -21.937499999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Boar",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "boar.svg",
+        "description": {
+            "en": "They have Animal Parts",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "boar",
+        "position": [
+            -43.59375000000003,
+            45.562500000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Wolf",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "wolf.svg",
+        "description": {
+            "en": "They have Animal Parts",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "wolf",
+        "position": [
+            51.974822974036215,
+            58.135326514555466
+        ]
+    },
+    {
+        "name": {
+            "en": "Wolf",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "wolf.svg",
+        "description": {
+            "en": "They have Animal Parts",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "wolf",
+        "position": [
+            -30.73170731707316,
+            -44.39811172305272
+        ]
+    },
+    {
+        "name": {
+            "en": "Wolf",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "wolf.svg",
+        "description": {
+            "en": "They have Animal Parts",
+            "es": ""
+        },
+        "category": "animal",
+        "tag": "wolf",
+        "position": [
+            35.121951219512496,
+            60.54287962234461
+        ]
+    },
+    {
+        "name": {
+            "en": "Dead Shot",
+            "es": ""
+        },
+        "imgSrc": "deadshot2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Can be found in one of three bushes</br>Loot: Powder Measure Tool, Gun parts, Money",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            -39.37057435090465,
+            38.166797797010226
+        ]
+    },
+    {
+        "name": {
+            "en": "Marcus Digger",
+            "es": ""
+        },
+        "imgSrc": "digger2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Marcus Digger is found in the rafters in the back of the mine</br>Key Needed: Drawer Key",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            -10.493154813383793,
+            59.76755004089223
+        ]
+    },
+    {
+        "name": {
+            "en": "Red Shirt",
+            "es": ""
+        },
+        "imgSrc": "redshirt2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Tier 3 Armor, Guns",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            -43.37519113311698,
+            3.1867009617140383
+        ]
+    },
+    {
+        "name": {
+            "en": "Red Shirt",
+            "es": ""
+        },
+        "imgSrc": "redshirt2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Tier 3 Armor, Guns",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            -27.56250000000003,
+            17.859375000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Red Shirt",
+            "es": ""
+        },
+        "imgSrc": "redshirt2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Tier 3 Armor, Guns",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            -15.609375000000028,
+            -2.390624999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Red Shirt",
+            "es": ""
+        },
+        "imgSrc": "redshirt2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Tier 3 Armor, Guns",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            60.93616674287358,
+            27.353664262724784
+        ]
+    },
+    {
+        "name": {
+            "en": "Black Coat",
+            "es": ""
+        },
+        "imgSrc": "blackcoat2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Tier 7 Armor, Guns",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            4.06371607457524,
+            2.1209423242653855
+        ]
+    },
+    {
+        "name": {
+            "en": "Black Coat",
+            "es": ""
+        },
+        "imgSrc": "blackcoat2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Tier 7 Armor, Guns",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            27.5773526540481,
+            14.491570404229023
+        ]
+    },
+    {
+        "name": {
+            "en": "Black Coat",
+            "es": ""
+        },
+        "imgSrc": "blackcoat2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Tier 7 Armor, Guns",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            8.218736193036307,
+            20.62966830650106
+        ]
+    },
+    {
+        "name": {
+            "en": "Black Coat",
+            "es": ""
+        },
+        "imgSrc": "blackcoat2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Tier 7 Armor, Guns",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            8.218736193036307,
+            20.62966830650106
+        ]
+    },
+    {
+        "name": {
+            "en": "Anny",
+            "es": ""
+        },
+        "imgSrc": "anny2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Sheriff badge, Random Machine (sewing, bullet press etc)",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            40.231277560270456,
+            52.35891284747649
+        ]
+    },
+    {
+        "name": {
+            "en": "Red Shirt",
+            "es": ""
+        },
+        "imgSrc": "redshirt2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Tier 3 Armor, Guns",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            7.4316340392404925,
+            57.14085158722639
+        ]
+    },
+    {
+        "name": {
+            "en": "Red Shirt",
+            "es": ""
+        },
+        "imgSrc": "redshirt2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Tier 3 Armor, Guns",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            16.648801437765513,
+            42.19105568474068
+        ]
+    },
+    {
+        "name": {
+            "en": "Berry Captain",
+            "es": ""
+        },
+        "imgSrc": "captain2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Drops tier 5 amor",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            26.475258968361857,
+            15.036691112949761
+        ]
+    },
+    {
+        "name": {
+            "en": "Stitches",
+            "es": ""
+        },
+        "imgSrc": "stitches2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Drops the rep aid box and meds",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            7.310291032886372,
+            20.15563917868412
+        ]
+    },
+    {
+        "name": {
+            "en": "Rattan",
+            "es": ""
+        },
+        "imgSrc": "rattan.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Percision Tool Kit, Silienced .38, .44, .45",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            56.67187499999997,
+            -22.921874999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Widows",
+            "es": ""
+        },
+        "imgSrc": "widow2.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Gun Parts, Special Hats",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            -23.76562500000003,
+            36.703125000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Indian Chiefs",
+            "es": ""
+        },
+        "imgSrc": "chiefs.png",
+        "iconName": "enemy_spawn.svg",
+        "description": {
+            "en": "Loot: Bows, Arrows",
+            "es": ""
+        },
+        "category": "enemy",
+        "tag": "enemy_spawn",
+        "position": [
+            -50.62500000000003,
+            -27.281249999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Dig Site</br> Rope",
+            "es": ""
+        },
+        "imgSrc": "rope chest.png",
+        "iconName": "event chest.svg",
+        "description": {
+            "en": "",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "Event Chest",
+        "position": [
+            -55.778600935140375,
+            -43.05412748019014
+        ]
+    },
+    {
+        "name": {
+            "en": "Dig Site</br> Swamp",
+            "es": ""
+        },
+        "imgSrc": "swamp chest.png",
+        "iconName": "event chest.svg",
+        "description": {
+            "en": "",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "Event Chest",
+        "position": [
+            40.66473641363601,
+            32.80384149615526
+        ]
+    },
+    {
+        "name": {
+            "en": "Dig Site</br> Anny's",
+            "es": ""
+        },
+        "imgSrc": "annies chest.png",
+        "iconName": "event chest.svg",
+        "description": {
+            "en": "",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "Event Chest",
+        "position": [
+            30.539736413636007,
+            62.475716496155236
+        ]
+    },
+    {
+        "name": {
+            "en": "Dig Site</br> Lumber",
+            "es": ""
+        },
+        "imgSrc": "lumber chest.png",
+        "iconName": "event chest.svg",
+        "description": {
+            "en": "",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "Event Chest",
+        "position": [
+            -40.28196164054633,
+            -2.1270441958380104
+        ]
+    },
+    {
+        "name": {
+            "en": "Dig Site</br> Plains",
+            "es": ""
+        },
+        "imgSrc": "eastern plains chest.png",
+        "iconName": "event chest.svg",
+        "description": {
+            "en": "",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "Event Chest",
+        "position": [
+            38.97723641363601,
+            -38.352408503844686
+        ]
+    },
+    {
+        "name": {
+            "en": "Dig Site</br> Dickson",
+            "es": ""
+        },
+        "imgSrc": "dickson chest.png",
+        "iconName": "event chest.svg",
+        "description": {
+            "en": "",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "Event Chest",
+        "position": [
+            0.5987199853633456,
+            -5.124163055343768
+        ]
+    },
+    {
+        "name": {
+            "en": "Northern Ravine</br>Loot Bag",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "loot bag.svg",
+        "description": {
+            "en": "",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "loot bag",
+        "position": [
+            -55.26562500000003,
+            46.265625000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Road</br>Loot Bag",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "loot bag.svg",
+        "description": {
+            "en": "",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "loot bag",
+        "position": [
+            -57.937500000000036,
+            -0.5624999999999929
+        ]
+    },
+    {
+        "name": {
+            "en": "River Loot Bag",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "loot bag.svg",
+        "description": {
+            "en": "",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "loot bag",
+        "position": [
+            -49.07812500000003,
+            -39.796874999999986
+        ]
+    },
+    
+    {
+        "name": {
+            "en": "Swamp Loot Bag",
+            "es": ""
+        },
+        "imgSrc": "swamp lootbag.png",
+        "iconName": "loot bag.svg",
+        "description": {
+            "en": "",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "loot bag",
+        "position": [
+            -49.07812500000003,
+            -39.796874999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Cave Extraction",
+            "es": "Extracción en Cueva"
+        },
+        "imgSrc": "cave.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+            "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            -44.53250654022719,
+            56.77148655455872
+        ]
+    },
+    {
+        "name": {
+            "en": "Bonfire",
+            "es": "Extracción en Bonfire"
+        },
+        "imgSrc": "bonfire.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+            "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            52.5625,
+            37.8125
+        ]
+    },
+    {
+        "name": {
+            "en": "Horseman",
+            "es": "Extracción en Bonfire"
+        },
+        "imgSrc": "horseman.png",
+        "iconName": "extractpaid.svg",
+        "description": {
+            "en": "Timer: 10 seconds</br>Cost: 10 Cents</br>Enemy: None",
+            "es": "Temporizador: 10 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
+        },
+        "category": "extraction",
+        "tag": "paid",
+        "position": [
+            -21.70708717713272,
+            52.03466375465125
+        ]
+    },
+    {
+        "name": {
+            "en": "Unfinished Cabin",
+            "es": "Extracción en Unfinished Cabin"
+        },
+        "imgSrc": "unfinished-log.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: 2 patrols 3 man",
+            "es": "Temporizador: 10 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            -42.06136900078677,
+            22.730133752950422
+        ]
+    },
+    {
+        "name": {
+            "en": "James Sullivan",
+            "es": "Extracción en James Sullivan"
+        },
+        "imgSrc": "james sullivan.png",
+        "iconName": "extractpaid.svg",
+        "description": {
+            "en": "Timer: 10 seconds</br>Cost: Cigar</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "paid",
+        "position": [
+            7.647521636506696,
+            37.175452399685284
+        ]
+    },
+    {
+        "name": {
+            "en": "Boatman",
+            "es": "Extracción en Boatman"
+        },
+        "imgSrc": "boatman.png",
+        "iconName": "extractpaid.svg",
+        "description": {
+            "en": "Timer: 10 seconds</br>Cost: 15 Cents</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "paid",
+        "position": [
+            8.355625491738806,
+            1.9118804091266668
+        ]
+    },
+    {
+        "name": {
+            "en": "Old Hut",
+            "es": "Extracción en Boatman"
+        },
+        "imgSrc": "old hut.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            8.220472440944675,
+            10.488188976377955
+        ]
+    },
+    {
+        "name": {
+            "en": "Military Wagon",
+            "es": "Extracción en Military Wagon"
+        },
+        "imgSrc": "military wagon.png",
+        "iconName": "extractpaid.svg",
+        "description": {
+            "en": "Timer: 20 seconds</br>Cost: Military Uniform</br>Enemy: Military Patrol",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "paid",
+        "position": [
+            20.267716535432697,
+            23.38582677165354
+        ]
+    },
+    {
+        "name": {
+            "en": "Abandoned Horse",
+            "es": "Extracción en Abandoned Horse"
+        },
+        "imgSrc": "abandoned horse.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            -10.771653543307451,
+            -13.322834645669289
+        ]
+    },
+    {
+        "name": {
+            "en": "Small Outcrop",
+            "es": "Extracción en BoatmSmall Outcropan"
+        },
+        "imgSrc": "small outcrop.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            8.503937007873645,
+            -28.346456692913378
+        ]
+    },
+    {
+        "name": {
+            "en": "Burned House",
+            "es": "Extracción en Burned House"
+        },
+        "imgSrc": "burnt house.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: Bandit Patrols",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            49.8897637795275,
+            -1.7007874015748001
+        ]
+    },
+    {
+        "name": {
+            "en": "Dead Tree",
+            "es": "Extracción en Dead Tree"
+        },
+        "imgSrc": "dead tree.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: Indian Patrol and Boar",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            26.07874015748004,
+            -48.61417322834646
+        ]
+    },
+    {
+        "name": {
+            "en": "Tree on Islet",
+            "es": "Extracción en Tree on Islet"
+        },
+        "imgSrc": "tree on the isle.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            0.2834645669288278,
+            -49.3228346456693
+        ]
+    },
+    {
+        "name": {
+            "en": "Boat",
+            "es": "Extracción en Boat"
+        },
+        "imgSrc": "boat.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 20 seconds</br>Cost: Free</br>Enemy: Indian Patrol",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            -17.29133858267747,
+            -41.81102362204723
+        ]
+    },
+    {
+        "name": {
+            "en": "Rope Specialist",
+            "es": "Extracción en Rope Specialist"
+        },
+        "imgSrc": "rope.png",
+        "iconName": "extractpaid.svg",
+        "description": {
+            "en": "Timer: 10 seconds</br>Cost: 5 Cents</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "paid",
+        "position": [
+            -52.15748031496078,
+            -51.02362204724409
+        ]
+    },
+    {
+        "name": {
+            "en": "Forgotten Boviac",
+            "es": "Extracción en Forgotten Boviac"
+        },
+        "imgSrc": "forgotten.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            -46.0629921259844,
+            -20.97637795275591
+        ]
+    },
+    {
+        "name": {
+            "en": "Conductor",
+            "es": "Extracción en Conductor"
+        },
+        "imgSrc": "conductor.png",
+        "iconName": "extractpaid.svg",
+        "description": {
+            "en": "Timer: 10 seconds</br>Cost: 10 Cents</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "paid",
+        "position": [
+            -60.23622047244109,
+            -27.212598425196845
+        ]
+    },
+    {
+        "name": {
+            "en": "Ruinded Tents",
+            "es": "Extracción en Ruinded Tents"
+        },
+        "imgSrc": "ruined-tents.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            -20.267716535433337,
+            26.07874015748032
+        ]
+    },
+    {
+        "name": {
+            "en": "Northern Ravine",
+            "es": "Extracción en Northern Ravine"
+        },
+        "imgSrc": "wagon.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 20 seconds</br>Cost: Free</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            -64.48818897637805,
+            48.75590551181102
+        ]
+    },
+    {
+        "name": {
+            "en": "Southern Ravine",
+            "es": "Extracción en Southern Ravine"
+        },
+        "imgSrc": "southern-ravine.png",
+        "iconName": "extract.svg",
+        "description": {
+            "en": "Timer: 20 seconds</br>Cost: Free</br>Enemy: None",
+            "es": ""
+        },
+        "category": "extraction",
+        "tag": "free",
+        "position": [
+            -61.37007874015758,
+            23.527559055118118
+        ]
+    },
+    
+    {
+        "name": {
+            "en": "Lost Campers",
+            "es": ""
+        },
+        "imgSrc": "lost camp.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Gun Parts, Barter Items",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            15.578284815106187,
+            41.84893784421715
+        ]
+    },
+    
+    {
+        "name": {
+            "en": "Lumber Camp",
+            "es": ""
+        },
+        "imgSrc": "lumbercamp.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Hook latch, Oil, gun parts</br>Boss: Red Shirt Roaming",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -44.32730133752929,
+            3.18646734854444
+        ]
+    },
+    {
+        "name": {
+            "en": "Illay's Farm",
+            "es": ""
+        },
+        "imgSrc": "farm.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Sewing Machine, Can Sealer, Event Shovel Key Needed: Illay's Key",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -2.1093750000000284,
+            34.593750000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Military Medic",
+            "es": ""
+        },
+        "imgSrc": "medic.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Salves, Meds</br>Key needed: Medic Key",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            6.890624999999972,
+            21.093750000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Anny's Village",
+            "es": ""
+        },
+        "imgSrc": "annies 1.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Sewing Machine, Gun Parts, Sheriff Badge</br> Keys Needed: Smiths, Millers, Johnsons",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            39.23437499999997,
+            53.578125000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Rattan Camp",
+            "es": ""
+        },
+        "imgSrc": "rattan camp.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Percision Tool Kit, Silienced .38, .44, .45",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            58.21874999999997,
+            -23.765624999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Destroyed Barn",
+            "es": ""
+        },
+        "imgSrc": "lumber barn.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            51.74999999999997,
+            11.390625000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Eastern Cabin",
+            "es": ""
+        },
+        "imgSrc": "eastern cabin.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Tier 3 Armor, Guns",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            46.96874999999997,
+            -24.890624999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Caravan Camp",
+            "es": ""
+        },
+        "imgSrc": "caravan camp.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Rep Surgery book, spices, gun parts</br>Boss: Red Shirt Roaming",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -28.607395751376856,
+            17.77340676632572
+        ]
+    },
+    {
+        "name": {
+            "en": "Humble Camp",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Event Shovel, Gun Parts",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -35.01562500000003,
+            47.109375000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Widows Cabin",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Money, Meds, Widows Book for Rep., Gun Parts",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -10.918389355869806,
+            -53.91739672706693
+        ]
+    },
+    {
+        "name": {
+            "en": "Lumber Jacks Hideout",
+            "es": ""
+        },
+        "imgSrc": "lumberjacks hideout.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Axes, Wood, Barter Items",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -29.81250000000003,
+            -53.296874999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Fishing Log Cabin",
+            "es": ""
+        },
+        "imgSrc": "fishers log.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Fish, Barter Items",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -7.64752163650644,
+            45.672698662470495
+        ]
+    },
+    {
+        "name": {
+            "en": "Fishing Station",
+            "es": ""
+        },
+        "imgSrc": "fishing station.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Fish, Gun Parts, Barter Items",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -12.12344139857803,
+            18.84534210835303
+        ]
+    },
+    {
+        "name": {
+            "en": "Fort Dickson",
+            "es": ""
+        },
+        "imgSrc": "dickson.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Swaggin Press, Crucible, Gun Parts, Brass Sheets",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -16.321199708036303,
+            -1.7463641934489544
+        ]
+    },
+    {
+        "name": {
+            "en": "Fort Berry",
+            "es": ""
+        },
+        "imgSrc": "fort berry.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: 100% Gun, Gun Parts, Brass/Aluminun Sheets, Backpack, Bombs",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            27.471630223068757,
+            15.271574898949389
+        ]
+    },
+    {
+        "name": {
+            "en": "Iron Mine",
+            "es": ""
+        },
+        "imgSrc": "iron mine.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Train Book for Rep, Pocket Watch for Rep, Gun Parts, Smokeless #5",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -6.514555468135029,
+            59.409913453973246
+        ]
+    },
+    {
+        "name": {
+            "en": "Dino Grave",
+            "es": ""
+        },
+        "imgSrc": "dino.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Backpack, Pickax",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            67.49999999999997,
+            11.812500000000014
+        ]
+    },
+    {
+      "name": {
+          "en": "Horse Circle",
+          "es": ""
+      },
+      "imgSrc": "horse circle.png",
+      "iconName": "poi.svg",
+      "description": {
+          "en": "Loot: Bones",
+          "es": ""
+      },
+      "category": "poi",
+      "tag": "camp",
+      "position": [
+        63.37992939352233,4.689067080166865
+      ]
+  },
+    {
+        "name": {
+            "en": "Bob Ross",
+            "es": ""
+        },
+        "imgSrc": "bob ross.png",
+        "iconName": "bob.svg",
+        "description": {
+            "en": "Loot: Gun, Barter Items",
+            "es": ""
+        },
+        "category": "loot",
+        "tag": "bob ross",
+        "position": [
+            38.24999999999997,
+            2.953125000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Dickson Wagon",
+            "es": ""
+        },
+        "imgSrc": "dickson wagon.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Event Shovel, Dickson Shed Key, Barter Items",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -24.48270936578234,
+            9.300320844931335
+        ]
+    },
+    {
+        "name": {
+            "en": "Tee Pee Settlment",
+            "es": ""
+        },
+        "imgSrc": "teepee settlement.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Barter Items, Bows, Arrows",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            -20.53125000000003,
+            -27.703124999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Plains Tee Pee Settlment",
+            "es": ""
+        },
+        "imgSrc": "plains tee pees.png",
+        "iconName": "poi.svg",
+        "description": {
+            "en": "Loot: Barter Items, Bows, Arrows",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "camp",
+        "position": [
+            24.74999999999997,
+            -30.937499999999986
+        ]
+    },
+    {
+        "name": {
+            "en": "Destroyed Bridge Wagon",
+            "es": ""
+        },
+        "imgSrc": "wagon.gif",
+        "iconName": "wagon.svg",
+        "description": {
+            "en": "Loot: Assembly Kits, Machines, Ammo, Tools",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "wagon",
+        "position": [
+            3.3749999999999716,
+            2.250000000000014
+        ]
+    },
+    {
+        "name": {
+            "en": "Swamp Wagon",
+            "es": ""
+        },
+        "imgSrc": "",
+        "iconName": "wagon.svg",
+        "description": {
+            "en": "Loot: Assembly Kits, Machines, Ammo, Tools",
+            "es": ""
+        },
+        "category": "poi",
+        "tag": "wagon",
+        "position": [
+            63.70312499999997,
+            26.718750000000014
+        ]
+    }
+]

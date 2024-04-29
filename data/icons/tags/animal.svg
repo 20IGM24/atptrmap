@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="64"
+   viewBox="0 0 345.75 489.31"
+   width="64"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="animal.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.703125"
+     inkscape:cx="32"
+     inkscape:cy="31.96064"
+     inkscape:window-width="1350"
+     inkscape:window-height="1212"
+     inkscape:window-x="2206"
+     inkscape:window-y="135"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <circle
+     cx="171.52"
+     cy="218.65"
+     fill="#3c93d4"
+     r="166.3"
+     stroke="#1d1d1b"
+     stroke-miterlimit="10"
+     stroke-width="10"
+     id="circle1"
+     style="fill:#706f33;fill-opacity:1" />
+</svg>
