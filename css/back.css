@@ -1,8 +1,0 @@
-#back-btn {
-    position: absolute;
-    background-color: var(--background-color);
-    z-index: 9999;
-    top: 18px;
-    left: 26px;
-  }
-  
