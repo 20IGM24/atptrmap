@@ -4,7 +4,8 @@
         "iconName": "loot.svg",
         "name": {
             "en": "Loot",
-            "es": "Botín"
+            "es": "Botín",
+            "uk": "Здобич"
         },
         "color": "#006400",
         "children": [
@@ -12,8 +13,9 @@
                 "id": "Chest",
                 "iconName": "chest.svg",
                 "name": {
-                    "en": "Event Chest",
-                    "es": "Event Chest"
+                    "en": "Chest",
+                    "es": "Cofre",
+                    "uk": "Схованка"
                 }
             },
             {
@@ -21,7 +23,8 @@
                 "iconName": "helmet.svg",
                 "name": {
                     "en": "Diving Helmet",
-                    "es": "Diving Helmet"
+                    "es": "Casco de buceo",
+                    "uk": "Каска для погруження"
                 }
             },
             {
@@ -29,7 +32,8 @@
                 "iconName": "Cash Register.svg",
                 "name": {
                     "en": "Cash Register",
-                    "es": "Cash Register"
+                    "es": "Caja registradora",
+                    "uk": "Касовий реєстратор"
                 }
             },
             
@@ -38,7 +42,8 @@
                 "iconName": "bob.svg",
                 "name": {
                     "en": "Bob Ross",
-                    "es": "Bob Ross"
+                    "es": "Bob Ross",
+                    "uk": "Bob Ross (Боб Росс)"
                 }
             },
             {
@@ -46,15 +51,18 @@
                 "iconName": "loot bag.svg",
                 "name": {
                     "en": "Loot Bag",
-                    "es": "Loot Bag"
+                    "es": "Bolsa de botín",
+                    "uk": "Торбала з лат"
                 }
             },
             {
                 "id": "Event Chest",
                 "iconName": "event chest.svg",
                 "name": {
-                    "en": "Chest",
-                    "es": "Chest"
+                    "en": "Event Chest",
+                    "es": "Cofre de Evento",
+                    "uk": "Сховище події"
+
                 }
             },
             {
@@ -62,47 +70,8 @@
                 "iconName": "backpack.svg",
                 "name": {
                     "en": "Backpack",
-                    "es": "Backpack"
-                }
-            },
-            {
-                "id": "blocked_resource_box",
-                "iconName": "blocked_resource_box.svg",
-                "name": {
-                    "en": "Blocked Resource box",
-                    "es": "Caja bloqueada"
-                }
-            },
-            {
-                "id": "blocked_access",
-                "iconName": "blocked_access.svg",
-                "name": {
-                    "en": "Blocked access",
-                    "es": "Accesos bloqueados"
-                }
-            },
-            {
-                "id": "depot",
-                "iconName": "depot.svg",
-                "name": {
-                    "en": "Depot",
-                    "es": "Almacén"
-                }
-            },
-            {
-                "id": "vault",
-                "iconName": "vault.svg",
-                "name": {
-                    "en": "vault",
-                    "es": "Bóveda"
-                }
-            },
-            {
-                "id": "hidden_stash",
-                "iconName": "hidden_stash.svg",
-                "name": {
-                    "en": "Hidden stash",
-                    "es": "Alijo oculto"
+                    "es": "Mochila",
+                    "uk": "Рюкзак"
                 }
             }
         ]
@@ -112,7 +81,8 @@
         "iconName": "extraction.svg",
         "name": {
             "en": "Extraction",
-            "es": "Extracción"
+            "es": "Extracción",
+            "uk": "Вилучення"
         },
         "color": "#3e92d0",
         "children": [
@@ -121,7 +91,8 @@
                 "iconName": "extractpaid.svg",
                 "name": {
                     "en": "Paid Exit",
-                    "es": "Cápsula de escape"
+                    "es": "Salida de pago",
+                    "uk": "Оплачена вихід"
                 }
             },
             {
@@ -129,7 +100,8 @@
                 "iconName": "extract.svg",
                 "name": {
                     "en": "Free Exit",
-                    "es": "Exclusa de aire"
+                    "es": "Salida gratuita",
+                    "uk": "Безкоштовна вихід"
                 }
             }
         ]
@@ -139,7 +111,8 @@
         "iconName": "animal.svg",
         "name": {
             "en": "Hunting",
-            "es": "Hunting"
+            "es": "Caza",
+            "uk": "Охота"
         },
         "color": "#3e92d0",
         "children": [
@@ -148,7 +121,8 @@
                 "iconName": "deer.svg",
                 "name": {
                     "en": "Deer",
-                    "es": ""
+                    "es": "Ciervo",
+                    "uk": "Олень"
                 }
             },
             {
@@ -156,7 +130,8 @@
                 "iconName": "wolf.svg",
                 "name": {
                     "en": "Wolf",
-                    "es": ""
+                    "es": "Lobo",
+                    "uk": "Вовк"
                 }
             },
             {
@@ -164,7 +139,8 @@
                 "iconName": "boar.svg",
                 "name": {
                     "en": "Boar",
-                    "es": ""
+                    "es": "Jabalí",
+                    "uk": "Сарана"
                 }
             }
         ]
@@ -174,7 +150,8 @@
         "iconName": "poi.svg",
         "name": {
             "en": "Point of Interest",
-            "es": "Point of Interest"
+            "es": "Punto de interés",
+            "uk": "Пункт інтересу"
         },
         "color": "#FFA500",
         "children": [
@@ -182,8 +159,9 @@
                 "id": "camp",
                 "iconName": "location.svg",
                 "name": {
-                    "en": "Locations",
-                    "es": ""
+                    "en": "Camp",
+                    "es": "Campamento",
+                    "uk": "База"
                 }
             },
             {
@@ -191,15 +169,8 @@
                 "iconName": "wagon.svg",
                 "name": {
                     "en": "Wagon",
-                    "es": ""
-                }
-            },
-            {
-                "id": "faction_mission",
-                "iconName": "faction_mission.svg",
-                "name": {
-                    "en": "Faction mission",
-                    "es": "Misión de facción"
+                    "es": "Carro",
+                    "uk": "Вагон"
                 }
             }
         ]
@@ -209,7 +180,8 @@
         "iconName": "enemy.svg",
         "name": {
             "en": "Enemy",
-            "es": "Enemigo"
+            "es": "Enemigo",
+            "uk": "Ворог"
         },
         "color": "#d43c3c",
         "children": [
@@ -218,15 +190,8 @@
                 "iconName": "enemy_spawn.svg",
                 "name": {
                     "en": "Boss",
-                    "es": "Aparición de enemigos"
-                }
-            },
-            {
-                "id": "breach_pod",
-                "iconName": "breach_pod.svg",
-                "name": {
-                    "en": "Breach pod",
-                    "es": "Cápsula enemiga"
+                    "es": "Jefe",
+                    "uk": "Босс"
                 }
             }
         ]
