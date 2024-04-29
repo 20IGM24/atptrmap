@@ -32,6 +32,15 @@
                     "es": "Cash Register"
                 }
             },
+            
+            {
+                "id": "bob ross",
+                "iconName": "bob.svg",
+                "name": {
+                    "en": "Bob Ross",
+                    "es": "Bob Ross"
+                }
+            },
             {
                 "id": "loot bag",
                 "iconName": "loot bag.svg",
