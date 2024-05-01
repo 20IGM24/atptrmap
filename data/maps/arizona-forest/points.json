@@ -770,8 +770,8 @@
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Lantern</br>Enemy: None",
-      "es": "Temporizador: 10 segundos</br>Coste: linterna</br>Enemigo: Ninguno",
-      "uk": "Таймер: 10 секунд</br>Вартість: ліхтар</br>Ворог: Немає"
+      "es": "Temporizador: 60 segundos</br>Coste: Linterna</br>Enemigo: Ninguno",
+      "uk": "Таймер: 60 секунд</br>Вартість: Ліхтарик</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
@@ -787,8 +787,8 @@
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Wagon Wheel</br>Enemy: Anny's Outlaws",
-      "es": "Temporizador: 60 segundos</br>Coste: Rueda de Carro</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість:візкове колесо</br>Ворог: Немає"
+      "es": "Temporizador: 60 segundos</br>Coste: Rueda de Carreta</br>Enemigo: Ninguno",
+      "uk": "Таймер: 60 секунд</br>Вартість: Колесо візка</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
@@ -796,16 +796,16 @@
   },
   {
     "name": {
-      "en": "Salis Mercer",
-      "es": "Salis Mercer",
-      "uk": "Salis Mercer"
+      "en": "Silas Mercer",
+      "es": "Silas Mercer",
+      "uk": "Silas Mercer (Сайлас Мерсер)"
     },
     "imgSrc": "mercer.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Pioneer Insigna</br>Enemy: None",
       "es": "Temporizador: 60 segundos</br>Coste: Insignia de Pionero</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість: Знак піонерів</br>Ворог: Немає"
+      "uk": "Таймер: 60 секунд</br>Вартість: Знак піонера</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
@@ -905,10 +905,10 @@
     "imgSrc": "boatman.png",
     "iconName": "extractpaid.svg",
     "description": {
-      "en": "Timer: 10 seconds</br>Cost: Maiden Portrait or Spouse Portrait or Woman Portrait</br>Enemy: None",
-      "es": "Temporizador: 10 segundos</br>Coste: Retrato de Doncella o Retrato de Cónyuge o Retrato de Mujer.</br>Enemigo: Ninguno",
-      "uk": "Таймер: 10 секунд</br>Вартість: Портрет дівчини або Портрет подружжя або Портрет жінки</br>Ворог: Немає"
-    },
+      "en": "Timer: 10 seconds</br>Cost: Maiden Portait or Spouse Portait or Woman Portait</br>Enemy: None",
+      "es": "Temporizador: 10 segundos</br>Coste: Retrato de Soltera o Retrato de Esposa o Retrato de Mujer</br>Enemigo: Ninguno",
+      "uk": "Таймер: 10 секунд</br>Вартість:  Портрет дівчини або Портрет дружини або Портрет жінки</br>Ворог: Немає"
+    }, 
     "category": "extraction",
     "tag": "paid",
     "position": [8.355625491738806, 1.9118804091266668]
@@ -1093,8 +1093,8 @@
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Leather Braclet or Wooden Casket</br>Enemy: None",
-      "es": "Temporizador:10 segundos</br>Coste: Pulsera de Cuero o Caja de Madera</br>Enemigo: Ninguno",
-      "uk": "Таймер: 10 секунд</br>Вартість: Шкіряний браслет або Дерев'яний Ящик центів</br>Ворог: Немає"
+      "es": "Temporizador:10 segundos</br>Coste: Brazalete de Cuero o Ataúd de Madera</br>Enemigo: Ninguno",
+      "uk": "Таймер: 10 секунд</br>Вартість: Шкіряний браслет або Дерев'яний скринька</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
