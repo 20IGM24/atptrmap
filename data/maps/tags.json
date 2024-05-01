@@ -47,6 +47,24 @@
                 }
             },
             {
+                "id": "carriage",
+                "iconName": "carriage.svg",
+                "name": {
+                    "en": "Carriage",
+                    "es": "carruaje",
+                    "uk": "вагон"
+                }
+            },
+            {
+                "id": "grave",
+                "iconName": "grave.svg",
+                "name": {
+                    "en": "Grave Site",
+                    "es": "lugar de sepultura",
+                    "uk": "могила"
+                }
+            },
+            {
                 "id": "loot bag",
                 "iconName": "loot bag.svg",
                 "name": {
