@@ -750,15 +750,66 @@
   },
   {
     "name": {
-      "en": "Swamp Loot Bag",
-      "es": "Bolsa de botín del pantano",
-      "uk": "Мішок з лупіною у болоті"
+      "en": "River Mouth Loot Bag",
+      "es": "Bolsa de botín en la desembocadura del río.",
+      "uk": "Мішок зі здобиччю на усті річки."
     },
     "imgSrc": "swamp lootbag.png",
     "iconName": "loot bag.svg",
     "category": "loot",
     "tag": "loot bag",
     "position": [-49.07812500000003, -39.796874999999986]
+  },
+  {
+    "name": {
+      "en": "Tunnel",
+      "es": "Túnel",
+      "uk": "Тунель"
+    },
+    "imgSrc": "",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 10 seconds</br>Cost: Lantern</br>Enemy: None",
+      "es": "Temporizador: 10 segundos</br>Coste: linterna</br>Enemigo: Ninguno",
+      "uk": "Таймер: 10 секунд</br>Вартість: ліхтар</br>Ворог: Немає"
+    },
+    "category": "extraction",
+    "tag": "paid",
+    "position": [-3.288485330315588,63.38703199955551]
+  },
+  {
+    "name": {
+      "en": "Broken Wagon",
+      "es": "Carro Roto",
+      "uk": "Розбите візок"
+    },
+    "imgSrc": "broken.png",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 10 seconds</br>Cost: Wagon Wheel</br>Enemy: Anny's Outlaws",
+      "es": "Temporizador: 60 segundos</br>Coste: Rueda de Carro</br>Enemigo: Ninguno",
+      "uk": "Таймер: 60 секунд</br>Вартість:візкове колесо</br>Ворог: Немає"
+    },
+    "category": "extraction",
+    "tag": "paid",
+    "position": [42.468749999999986,52.26562500000002]
+  },
+  {
+    "name": {
+      "en": "Salis Mercer",
+      "es": "Salis Mercer",
+      "uk": "Salis Mercer"
+    },
+    "imgSrc": "mercer.png",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 10 seconds</br>Cost: Pioneer Insigna</br>Enemy: None",
+      "es": "Temporizador: 60 segundos</br>Coste: Insignia de Pionero</br>Enemigo: Ninguno",
+      "uk": "Таймер: 60 секунд</br>Вартість: Знак піонерів</br>Ворог: Немає"
+    },
+    "category": "extraction",
+    "tag": "paid",
+    "position": [34.38560558099498,16.381908443841947]
   },
   {
     "name": {
@@ -854,9 +905,9 @@
     "imgSrc": "boatman.png",
     "iconName": "extractpaid.svg",
     "description": {
-      "en": "Timer: 10 seconds</br>Cost: 15 Cents</br>Enemy: None",
-      "es": "Temporizador: 10 segundos</br>Coste: 15 centavos</br>Enemigo: Ninguno",
-      "uk": "Таймер: 10 секунд</br>Вартість: 15 центів</br>Ворог: Немає"
+      "en": "Timer: 10 seconds</br>Cost: Maiden Portrait or Spouse Portrait or Woman Portrait</br>Enemy: None",
+      "es": "Temporizador: 10 segundos</br>Coste: Retrato de Doncella o Retrato de Cónyuge o Retrato de Mujer.</br>Enemigo: Ninguno",
+      "uk": "Таймер: 10 секунд</br>Вартість: Портрет дівчини або Портрет подружжя або Портрет жінки</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
@@ -888,7 +939,7 @@
     "imgSrc": "military wagon.png",
     "iconName": "extractpaid.svg",
     "description": {
-      "en": "Timer: 20 seconds</br>Cost: Military Uniform</br>Enemy: Military Patrol",
+      "en": "Timer: 20 seconds</br>Cost: Lawful Uniform</br>Enemy: Military Patrol",
       "es": "Temporizador: 20 segundos</br>Coste: Uniforme militar</br>Enemigo: Patrulla militar",
       "uk": "Таймер: 20 секунд</br>Вартість: Військовий уніформа</br>Ворог: Військова патруль"
     },
@@ -1007,7 +1058,7 @@
     "imgSrc": "rope.png",
     "iconName": "extractpaid.svg",
     "description": {
-      "en": "Timer: 10 seconds</br>Cost: 5 Cents</br>Enemy: None",
+      "en": "Timer: 10 seconds</br>Cost: Rope</br>Enemy: None",
       "es": "Temporizador 10 segundos</br>Coste: 5 centavos</br>Enemigo: Ninguno",
       "uk": "Таймер: 10 секунд</br>Вартість: 5 центів</br>Ворог: Немає"
     },
@@ -1034,16 +1085,16 @@
   },
   {
     "name": {
-      "en": "Driver",
+      "en": "Conductor",
       "es": "Conductor",
       "uk": "Водій"
     },
     "imgSrc": "conductor.png",
     "iconName": "extractpaid.svg",
     "description": {
-      "en": "Timer: 10 seconds</br>Cost: 10 Cents</br>Enemy: None",
-      "es": "Temporizador:10 segundos</br>Coste: 10 centavos</br>Enemigo: Ninguno",
-      "uk": "Таймер: 10 секунд</br>Вартість: 10 центів</br>Ворог: Немає"
+      "en": "Timer: 10 seconds</br>Cost: Leather Braclet or Wooden Casket</br>Enemy: None",
+      "es": "Temporizador:10 segundos</br>Coste: Pulsera de Cuero o Caja de Madera</br>Enemigo: Ninguno",
+      "uk": "Таймер: 10 секунд</br>Вартість: Шкіряний браслет або Дерев'яний Ящик центів</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
