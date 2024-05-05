@@ -1143,9 +1143,9 @@
   },
   {
     "name": {
-      "en": "Northern Ravine",
-      "es": "Barranco del Norte",
-      "uk": "Північний яр"
+      "en": "Wagon",
+      "es": "vagón",
+      "uk": "вагон"
     },
     "imgSrc": "wagon.png",
     "iconName": "extract.svg",
