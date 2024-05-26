@@ -3,7 +3,7 @@ import { defineConfig } from "vite";
 import vitePluginFaviconsInject from "vite-plugin-favicons-inject";
 
 export default defineConfig({
-  base: "/atptrmap/",
+  base: "/atptrmapbeta/",
   build: {
     outDir: "build",
     rollupOptions: {
@@ -11,7 +11,7 @@ export default defineConfig({
         index: resolve(__dirname, "index.html"),
         attributions_en: resolve(__dirname, "attributions/en.html"),
         attributions_es: resolve(__dirname, "attributions/es.html"),
-        attributions_uk: resolve(__dirname, "attributions/uk.html"),
+        attributions_uk: resolve(__dirname, "attributions/ua.html"),
         arizona_forest: resolve(__dirname, "maps/arizona-forest.html"),
       },
     },
