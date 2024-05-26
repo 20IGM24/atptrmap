@@ -3,31 +3,31 @@
     "name": {
       "en": "Cash Register",
       "es": "Caja registradora",
-      "uk": "Касовий апарат"
+      "ua": "Касовий апарат"
     },
     "imgSrc": "cash register.png",
     "iconName": "cash register.svg",
     "description": {
       "en": "Loot: money",
       "es": "Botín: dinero",
-      "uk": "Здобич: гроші"
+      "ua": "Здобич: гроші"
     },
     "category": "loot",
     "tag": "Cash Register",
-    "position": [-8.214004720692344, 11.258851298190393]
+    "position": [-5.519284713143776,9.508982488798296]
   },
   {
     "name": {
       "en": "Loot Bag",
       "es": "Bolsa de botín",
-      "uk": "Сумка для здобичі"
+      "ua": "Сумка для здобичі"
     },
     "imgSrc": "",
     "iconName": "loot bag.svg",
     "description": {
       "en": "Loot: misc items",
       "es": "Botín: artículos varios",
-      "uk": "Здобич: різні предмети"
+      "ua": "Здобич: різні предмети"
     },
     "category": "loot",
     "tag": "loot bag",
@@ -37,7 +37,7 @@
     "name": {
       "en": "Diving Helmet",
       "es": "Casco de buceo",
-      "uk": "Шолом для підводного плавання"
+      "ua": "Шолом для підводного плавання"
     },
     "imgSrc": "diving helmet.png",
     "iconName": "helmet.svg",
@@ -49,31 +49,31 @@
     "name": {
       "en": "Backpack - Swamp Dead Horse",
       "es": "Mochila - Caballo muerto",
-      "uk": "Рюкзак - Мертвий кінь"
+      "ua": "Рюкзак - Мертвий кінь"
     },
     "imgSrc": "",
     "iconName": "backpack.svg",
     "description": {
       "en": "Free Bag",
       "es": "Bolsa gratuita",
-      "uk": "Безкоштовна сумка"
+      "ua": "Безкоштовна сумка"
     },
     "category": "loot",
     "tag": "backpack",
-    "position": [58.515524397137455, 29.711429829188944]
+    "position": [57.88754273778726, 28.16990512412094]
   },
   {
     "name": {
       "en": "Backpack - Shack",
       "es": "Mochila - Chabola",
-      "uk": "Рюкзак - Хижа"
+      "ua": "Рюкзак - Хижа"
     },
     "imgSrc": "",
     "iconName": "backpack.svg",
     "description": {
       "en": "Free Bag",
       "es": "Bolsa gratuita",
-      "uk": "Безкоштовна сумка"
+      "ua": "Безкоштовна сумка"
     },
     "category": "loot",
     "tag": "backpack",
@@ -83,31 +83,31 @@
     "name": {
       "en": "Backpack - Swamp Cabin",
       "es": "Mochila - Cabaña en el pantano",
-      "uk": "Рюкзак - Болотна хата"
+      "ua": "Рюкзак - Болотна хата"
     },
     "imgSrc": "",
     "iconName": "backpack.svg",
     "description": {
       "en": "Free Bag",
       "es": "Bolsa gratuita",
-      "uk": "Безкоштовна сумка"
+      "ua": "Безкоштовна сумка"
     },
     "category": "loot",
     "tag": "backpack",
-    "position": [49.21874999999997, 33.890625000000014]
+    "position": [50.18204065118766, 32.923608026976765 ]
   },
   {
     "name": {
       "en": "Backpack - Humble Camp",
       "es": "Mochila - Campamento Humilde",
-      "uk": "Рюкзак - Скромний табір"
+      "ua": "Рюкзак - Скромний табір"
     },
     "imgSrc": "",
     "iconName": "backpack.svg",
     "description": {
       "en": "Free Bag",
       "es": "Bolsa gratuita",
-      "uk": "Безкоштовна сумка"
+      "ua": "Безкоштовна сумка"
     },
     "category": "loot",
     "tag": "backpack",
@@ -117,14 +117,14 @@
     "name": {
       "en": "Backpack - Unfished Cabin",
       "es": "Mochila - Cabaña sin terminar",
-      "uk": "Рюкзак - Недобудована хата"
+      "ua": "Рюкзак - Недобудована хата"
     },
     "imgSrc": "",
     "iconName": "backpack.svg",
     "description": {
       "en": "Free Bag",
       "es": "Bolsa gratuita",
-      "uk": "Безкоштовна сумка"
+      "ua": "Безкоштовна сумка"
     },
     "category": "loot",
     "tag": "backpack",
@@ -134,14 +134,14 @@
     "name": {
       "en": "Deer",
       "es": "Ciervo",
-      "uk": "Олень"
+      "ua": "Олень"
     },
     "imgSrc": "",
     "iconName": "deer.svg",
     "description": {
       "en": "Antlers, hide, meat",
       "es": "Astas, piel, carne",
-      "uk": "Роги, шкура, м'ясо"
+      "ua": "Роги, шкура, м'ясо"
     },
     "category": "animal",
     "tag": "deer",
@@ -151,14 +151,14 @@
     "name": {
       "en": "Deer",
       "es": "Ciervo",
-      "uk": "Олень"
+      "ua": "Олень"
     },
     "imgSrc": "",
     "iconName": "deer.svg",
     "description": {
       "en": "Antlers, hide, meat",
       "es": "Astas, piel, carne",
-      "uk": "Роги, шкура, м'ясо"
+      "ua": "Роги, шкура, м'ясо"
     },
     "category": "animal",
     "tag": "deer",
@@ -168,31 +168,31 @@
     "name": {
       "en": "Deer",
       "es": "Ciervo",
-      "uk": "Олень"
+      "ua": "Олень"
     },
     "imgSrc": "",
     "iconName": "deer.svg",
     "description": {
       "en": "Antlers, hide, meat",
       "es": "Astas, piel, carne",
-      "uk": "Роги, шкура, м'ясо"
+      "ua": "Роги, шкура, м'ясо"
     },
     "category": "animal",
     "tag": "deer",
-    "position": [24.18749999999997, -1.1953124999999858]
+    "position": [24.227905764705937,-3.886154204482601]
   },
   {
     "name": {
       "en": "Deer",
       "es": "Ciervo",
-      "uk": "Олень"
+      "ua": "Олень"
     },
     "imgSrc": "",
     "iconName": "deer.svg",
     "description": {
       "en": "Antlers, hide, meat",
       "es": "Astas, piel, carne",
-      "uk": "Роги, шкура, м'ясо"
+      "ua": "Роги, шкура, м'ясо"
     },
     "category": "animal",
     "tag": "deer",
@@ -202,14 +202,14 @@
     "name": {
       "en": "Boar",
       "es": "Jabalí",
-      "uk": "Кабан"
+      "ua": "Кабан"
     },
     "imgSrc": "",
     "iconName": "boar.svg",
     "description": {
       "en": "Tusks, hide, meat",
       "es": "Colmillos, piel, carne",
-      "uk": "Бивні, шкура, м'ясо"
+      "ua": "Бивні, шкура, м'ясо"
     },
     "category": "animal",
     "tag": "boar",
@@ -217,33 +217,33 @@
   },
   {
     "name": {
-      "en": "Boar",
+      "en": "Boar - Plains",
       "es": "Jabalí",
-      "uk": "Кабан"
+      "ua": "Кабан"
     },
     "imgSrc": "",
     "iconName": "boar.svg",
     "description": {
       "en": "Tusks, hide, meat",
       "es": "Colmillos, piel, carne",
-      "uk": "Бивні, шкура, м'ясо"
+      "ua": "Бивні, шкура, м'ясо"
     },
     "category": "animal",
     "tag": "boar",
-    "position": [31.92187499999997, -46.828124999999986]
+    "position": [29.155050395027764,-44.99090049184678]
   },
   {
     "name": {
       "en": "Boar",
       "es": "Jabalí",
-      "uk": "Кабан"
+      "ua": "Кабан"
     },
     "imgSrc": "",
     "iconName": "boar.svg",
     "description": {
       "en": "Tusks, hide, meat",
       "es": "Colmillos, piel, carne",
-      "uk": "Бивні, шкура, м'ясо"
+      "ua": "Бивні, шкура, м'ясо"
     },
     "category": "animal",
     "tag": "boar",
@@ -253,14 +253,14 @@
     "name": {
       "en": "Boar",
       "es": "Jabalí",
-      "uk": "Кабан"
+      "ua": "Кабан"
     },
     "imgSrc": "",
     "iconName": "boar.svg",
     "description": {
       "en": "Tusks, hide, meat",
       "es": "Colmillos, piel, carne",
-      "uk": "Бивні, шкура, м'ясо"
+      "ua": "Бивні, шкура, м'ясо"
     },
     "category": "animal",
     "tag": "boar",
@@ -270,14 +270,14 @@
     "name": {
       "en": "Boar",
       "es": "Jabalí",
-      "uk": "Кабан"
+      "ua": "Кабан"
     },
     "imgSrc": "",
     "iconName": "boar.svg",
     "description": {
       "en": "Tusks, hide, meat",
       "es": "Colmillos, piel, carne",
-      "uk": "Бивні, шкура, м'ясо"
+      "ua": "Бивні, шкура, м'ясо"
     },
     "category": "animal",
     "tag": "boar",
@@ -287,31 +287,48 @@
     "name": {
       "en": "Wolf",
       "es": "Lobo",
-      "uk": "Вовк"
+      "ua": "Вовк"
     },
     "imgSrc": "",
     "iconName": "wolf.svg",
     "description": {
       "en": "Pelt, bones, meat, heart, animal fat",
       "es": "Piel, huesos, carne, corazón, grasa animal",
-      "uk": "шкура, кістки, м'ясо, серце, тваринний жир"
+      "ua": "шкура, кістки, м'ясо, серце, тваринний жир"
     },
     "category": "animal",
     "tag": "wolf",
     "position": [51.974822974036215, 58.135326514555466]
   },
-  {
+{
     "name": {
       "en": "Wolf",
       "es": "Lobo",
-      "uk": "Вовк"
+      "ua": "Вовк"
     },
     "imgSrc": "",
     "iconName": "wolf.svg",
     "description": {
       "en": "Pelt, bones, meat, heart, animal fat",
       "es": "Piel, huesos, carne, corazón, grasa animal",
-      "uk": "шкура, кістки, м'ясо, серце, тваринний жир"
+      "ua": "шкура, кістки, м'ясо, серце, тваринний жир"
+    },
+    "category": "animal",
+    "tag": "wolf",
+    "position": [-45.778054217281664,-39.91581440972348]
+  },
+  {
+    "name": {
+      "en": "Wolf",
+      "es": "Lobo",
+      "ua": "Вовк"
+    },
+    "imgSrc": "",
+    "iconName": "wolf.svg",
+    "description": {
+      "en": "Pelt, bones, meat, heart, animal fat",
+      "es": "Piel, huesos, carne, corazón, grasa animal",
+      "ua": "шкура, кістки, м'ясо, серце, тваринний жир"
     },
     "category": "animal",
     "tag": "wolf",
@@ -321,14 +338,14 @@
     "name": {
       "en": "Wolf",
       "es": "Lobo",
-      "uk": "Вовк"
+      "ua": "Вовк"
     },
     "imgSrc": "",
     "iconName": "wolf.svg",
     "description": {
       "en": "Pelt, bones, meat, heart, animal fat",
       "es": "Piel, huesos, carne, corazón, grasa animal",
-      "uk": "шкура, кістки, м'ясо, серце, тваринний жир"
+      "ua": "шкура, кістки, м'ясо, серце, тваринний жир"
     },
     "category": "animal",
     "tag": "wolf",
@@ -338,31 +355,31 @@
     "name": {
       "en": "Dead Shot",
       "es": "Dead Shot (Tiro mortal)",
-      "uk": "Dead Shot (Мертвий постріл)"
+      "ua": "Dead Shot (Мертвий постріл)"
     },
     "imgSrc": "deadshot2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Can be found in one of three bushes</br>Loot: Powder Measure Tool, Gun parts, Money",
       "es": "Se puede encontrar en uno de los tres arbustos</br>Botín: Herramienta de medida de polvo, Piezas de arma, Dinero",
-      "uk": "Можна знайти в одному з трьох кущів</br>Здобич: Інструмент для вимірювання пороху, Деталі зброї, Гроші"
+      "ua": "Можна знайти в одному з трьох кущів</br>Здобич: Інструмент для вимірювання пороху, Деталі зброї, Гроші"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [-39.37057435090465, 38.166797797010226]
+    "position": [-39.39530024422814,36.98032159524531]
   },
   {
     "name": {
       "en": "Marcus Digger",
       "es": "Marcus Digger (Marcus el excavador)",
-      "uk": "Marcus Digger (Маркус Діггер)"
+      "ua": "Marcus Digger (Маркус Діггер)"
     },
     "imgSrc": "digger2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Can be found in the rafters in the back of the mine</br>Key Needed: Drawer Key",
       "es": "Se puede encontrar en los altillos al fondo de la mina</br>Llave necesaria: Llave del cajón",
-      "uk": "Можна знайти на стропилах у задній частині шахти</br>Ключ потрібно: Ключ до ящика"
+      "ua": "Можна знайти на стропилах у задній частині шахти</br>Ключ потрібно: Ключ до ящика"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -372,14 +389,14 @@
     "name": {
       "en": "Red shirt",
       "es": "Camisa roja",
-      "uk": "Червона сорочка"
+      "ua": "Червона сорочка"
     },
     "imgSrc": "redshirt2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Tier 3 Armor, Guns",
       "es": "Botín: Armadura de Nivel 3, Armas",
-      "uk": "Здобич: Броня 3-го рівня, зброя"
+      "ua": "Здобич: Броня 3-го рівня, зброя"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -389,14 +406,14 @@
     "name": {
       "en": "Red shirt",
       "es": "Camisa roja",
-      "uk": "Червона сорочка"
+      "ua": "Червона сорочка"
     },
     "imgSrc": "redshirt2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Tier 3 Armor, Guns",
       "es": "Botín: Armadura de Nivel 3, Armas",
-      "uk": "Здобич: Броня 3-го рівня, зброя"
+      "ua": "Здобич: Броня 3-го рівня, зброя"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -406,14 +423,14 @@
     "name": {
       "en": "Red shirt",
       "es": "Camisa roja",
-      "uk": "Червона сорочка"
+      "ua": "Червона сорочка"
     },
     "imgSrc": "redshirt2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Tier 3 Armor, Guns",
       "es": "Botín: Armadura de Nivel 3, Armas",
-      "uk": "Здобич: Броня 3-го рівня, зброя"
+      "ua": "Здобич: Броня 3-го рівня, зброя"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -423,48 +440,48 @@
     "name": {
       "en": "Red shirt",
       "es": "Camisa roja",
-      "uk": "Червона сорочка"
+      "ua": "Червона сорочка"
     },
     "imgSrc": "redshirt2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Tier 3 Armor, Guns",
       "es": "Botín: Armadura de Nivel 3, Armas",
-      "uk": "Здобич: Броня 3-го рівня, зброя"
+      "ua": "Здобич: Броня 3-го рівня, зброя"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [60.93616674287358, 27.353664262724784]
+    "position": [63.04396692461681, 27.188275079879553]
   },
   {
     "name": {
-      "en": "Black coat",
+      "en": "Black coat - Destroyed Bridge",
       "es": "Abrigo negro",
-      "uk": "Чорне пальто"
+      "ua": "Чорне пальто"
     },
     "imgSrc": "blackcoat2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Tier 7 Armor, Guns",
       "es": "Botín: Armadura de Nivel 7, Armas",
-      "uk": "Здобич: Броня 7-го рівня, Зброя"
+      "ua": "Здобич: Броня 7-го рівня, Зброя"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [4.06371607457524, 2.1209423242653855]
+    "position": [3.2061938389446496,2.142144494299597]
   },
   {
     "name": {
       "en": "Black coat",
       "es": "Abrigo negro",
-      "uk": "Чорне пальто"
+      "ua": "Чорне пальто"
     },
     "imgSrc": "blackcoat2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Tier 7 Armor, Guns",
       "es": "Botín: Armadura de Nivel 7, Armas",
-      "uk": "Здобич: Броня 7-го рівня, Зброя"
+      "ua": "Здобич: Броня 7-го рівня, Зброя"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -474,14 +491,14 @@
     "name": {
       "en": "Black coat",
       "es": "Abrigo negro",
-      "uk": "Чорне пальто"
+      "ua": "Чорне пальто"
     },
     "imgSrc": "blackcoat2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Tier 7 Armor, Guns",
       "es": "Botín: Armadura de Nivel 7, Armas",
-      "uk": "Здобич: Броня 7-го рівня, Зброя"
+      "ua": "Здобич: Броня 7-го рівня, Зброя"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -491,14 +508,14 @@
     "name": {
       "en": "Black coat",
       "es": "Abrigo negro",
-      "uk": "Чорне пальто"
+      "ua": "Чорне пальто"
     },
     "imgSrc": "blackcoat2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Tier 7 Armor, Guns",
       "es": "Botín: Armadura de Nivel 7, Armas",
-      "uk": "Здобич: Броня 7-го рівня, Зброя"
+      "ua": "Здобич: Броня 7-го рівня, Зброя"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -508,14 +525,14 @@
     "name": {
       "en": "Anny",
       "es": "Anny",
-      "uk": "Анни"
+      "ua": "Анни"
     },
     "imgSrc": "anny2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Sheriff badge, Random Machine (sewing, bullet press etc)",
       "es": "Botín: Insignia de Sheriff, Máquina Aleatoria (de coser, de prensa de balas, etc.)",
-      "uk": "Здобич: Знак шерифа, Випадковий прилад (швейний, прес для виготовлення кульок і т. д.)"
+      "ua": "Здобич: Знак шерифа, Випадковий прилад (швейний, прес для виготовлення кульок і т. д.)"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -525,14 +542,14 @@
     "name": {
       "en": "Red shirt",
       "es": "Camisa roja",
-      "uk": "Червона сорочка"
+      "ua": "Червона сорочка"
     },
     "imgSrc": "redshirt2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Tier 3 Armor, Guns",
       "es": "Botín: Armadura de Nivel 3, Armas",
-      "uk": "Здобич: Броня 3-го рівня, зброя"
+      "ua": "Здобич: Броня 3-го рівня, зброя"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -542,14 +559,14 @@
     "name": {
       "en": "Red shirt",
       "es": "Camisa roja",
-      "uk": "Червона сорочка"
+      "ua": "Червона сорочка"
     },
     "imgSrc": "redshirt2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Tier 3 Armor, Guns",
       "es": "Botín: Armadura de Nivel 3, Armas",
-      "uk": "Здобич: Броня 3-го рівня, зброя"
+      "ua": "Здобич: Броня 3-го рівня, зброя"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -559,14 +576,14 @@
     "name": {
       "en": "Berry Captain",
       "es": "Capitán Berry",
-      "uk": "Капітан Беррі"
+      "ua": "Капітан Беррі"
     },
     "imgSrc": "captain2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Tier 5 amor",
       "es": "Botín: Armadura de Nivel 5",
-      "uk": "Здобич: Броня 5-го рівня"
+      "ua": "Здобич: Броня 5-го рівня"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -576,14 +593,14 @@
     "name": {
       "en": "Stitches",
       "es": "Stitches",
-      "uk": "Stitches (Шви)"
+      "ua": "Stitches (Шви)"
     },
     "imgSrc": "stitches2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Reputation: Surgical kit</br>Loot: meds",
       "es": "Reputación: Kit quirúrgico</br>Botín: Medicamentos",
-      "uk": "Репутація: Хірургічний набір</br>Здобич: Медикаменти"
+      "ua": "Репутація: Хірургічний набір</br>Здобич: Медикаменти"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -593,48 +610,99 @@
     "name": {
       "en": "Rattan",
       "es": "Rattan",
-      "uk": "Rattan (Раттан)"
+      "ua": "Rattan (Раттан)"
     },
     "imgSrc": "rattan.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Percision Tool Kit, Silenced .38, .44, .45",
       "es": "Botín: Kit de Herramientas de Precisión, Pistola Silenciada .38, .44, .45",
-      "uk": "Здобич: Набір Інструментів для Точної Роботи, Пістолети З Приглушником .38, .44, .45"
+      "ua": "Здобич: Набір Інструментів для Точної Роботи, Пістолети З Приглушником .38, .44, .45"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
     "position": [56.67187499999997, -22.921874999999986]
   },
-  {
+{
     "name": {
       "en": "Widows",
       "es": "Widows",
-      "uk": "Widows (Вдови)"
+      "ua": "Widows (Вдови)"
     },
     "imgSrc": "widow2.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Gun Parts, Special Hats",
       "es": "Botín: Piezas de armas, Sombreros especiales",
-      "uk": "Здобич: Деталі до зброї, Спеціальні шапки"
+      "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
+    },
+    "category": "enemy",
+    "tag": "enemy_spawn",
+    "position": [ -50.86843632140684,19.306838389616473]
+  },
+{
+    "name": {
+      "en": "Widows",
+      "es": "Widows",
+      "ua": "Widows (Вдови)"
+    },
+    "imgSrc": "widow2.png",
+    "iconName": "enemy_spawn.svg",
+    "description": {
+      "en": "Loot: Gun Parts, Special Hats",
+      "es": "Botín: Piezas de armas, Sombreros especiales",
+      "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
+    },
+    "category": "enemy",
+    "tag": "enemy_spawn",
+    "position": [-43.164481419585044,54.700370329870225]
+  },
+  {
+    "name": {
+      "en": "Widows",
+      "es": "Widows",
+      "ua": "Widows (Вдови)"
+    },
+    "imgSrc": "widow2.png",
+    "iconName": "enemy_spawn.svg",
+    "description": {
+      "en": "Loot: Gun Parts, Special Hats",
+      "es": "Botín: Piezas de armas, Sombreros especiales",
+      "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
     "position": [-23.76562500000003, 36.703125000000014]
   },
+{
+    "name": {
+      "en": "Widows",
+      "es": "Widows",
+      "ua": "Widows (Вдови)"
+    },
+    "imgSrc": "widow2.png",
+    "iconName": "enemy_spawn.svg",
+    "description": {
+      "en": "Loot: Gun Parts, Special Hats",
+      "es": "Botín: Piezas de armas, Sombreros especiales",
+      "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
+    },
+    "category": "enemy",
+    "tag": "enemy_spawn",
+    "position": [-32.55758698954055,17.632065584872606]
+  },
   {
     "name": {
       "en": "Indian Chiefs",
       "es": "Jefes indígenas",
-      "uk": "Індіанські ватажки"
+      "ua": "Індіанські ватажки"
     },
     "imgSrc": "chiefs.png",
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Loot: Bows, Arrows",
       "es": "Botín: Arcos, Flechas",
-      "uk": "Здобич: Луки, Стріли"
+      "ua": "Здобич: Луки, Стріли"
     },
     "category": "enemy",
     "tag": "enemy_spawn",
@@ -644,19 +712,19 @@
     "name": {
       "en": "Dig Site - Rope",
       "es": "Excavación - Cuerda",
-      "uk": "Місце розкопок - Мотузка"
+      "ua": "Місце розкопок - Мотузка"
     },
     "imgSrc": "rope chest.png",
     "iconName": "event chest.svg",
     "category": "loot",
     "tag": "Event Chest",
-    "position": [-55.778600935140375, -43.05412748019014]
+    "position": [-51.998776294543084,-43.484863264032896]
   },
   {
     "name": {
       "en": "Dig Site - Swamp",
       "es": "Excavación - Pantano",
-      "uk": "Місце розкопок - Болото"
+      "ua": "Місце розкопок - Болото"
     },
     "imgSrc": "swamp chest.png",
     "iconName": "event chest.svg",
@@ -668,7 +736,7 @@
     "name": {
       "en": "Dig Site - Anny's",
       "es": "Excavación - Anny",
-      "uk": "Місце розкопок - Анни"
+      "ua": "Місце розкопок - Анни"
     },
     "imgSrc": "annies chest.png",
     "iconName": "event chest.svg",
@@ -680,19 +748,19 @@
     "name": {
       "en": "Dig Site - Lumber",
       "es": "Excavación - Maderero",
-      "uk": "Місце розкопок - Дерево"
+      "ua": "Місце розкопок - Дерево"
     },
     "imgSrc": "lumber chest.png",
     "iconName": "event chest.svg",
     "category": "loot",
     "tag": "Event Chest",
-    "position": [-40.28196164054633, -2.1270441958380104]
+    "position": [-37.963023055215274,-7.680058408892858]
   },
   {
     "name": {
       "en": "Dig Site - Plains",
       "es": "Excavación - Llanuras",
-      "uk": "Місце розкопок - Рівнина"
+      "ua": "Місце розкопок - Рівнина"
     },
     "imgSrc": "eastern plains chest.png",
     "iconName": "event chest.svg",
@@ -704,19 +772,19 @@
     "name": {
       "en": "Dig Site - Dickson",
       "es": "Excavación - Dickson",
-      "uk": "Місце розкопок - Dickson (Діксон)"
+      "ua": "Місце розкопок - Dickson (Діксон)"
     },
     "imgSrc": "dickson chest.png",
     "iconName": "event chest.svg",
     "category": "loot",
     "tag": "Event Chest",
-    "position": [0.5987199853633456, -5.124163055343768]
+    "position": [-1.622637366673274,-11.5888291160488]
   },
   {
     "name": {
       "en": "Northern Ravine - Loot Bag",
       "es": "Barranco del norte - Bolsa de botín",
-      "uk": "Північна ущелина - Мішок з лупіною"
+      "ua": "Північна ущелина - Мішок з лупіною"
     },
     "imgSrc": "",
     "iconName": "loot bag.svg",
@@ -728,7 +796,7 @@
     "name": {
       "en": "Road - Loot Bag",
       "es": "Carretera - Bolsa de botín",
-      "uk": "Дорога - Мішок з лупіною"
+      "ua": "Дорога - Мішок з лупіною"
     },
     "imgSrc": "",
     "iconName": "loot bag.svg",
@@ -740,7 +808,7 @@
     "name": {
       "en": "River Loot Bag",
       "es": "Bolsa de botín del río",
-      "uk": "Мішок з лупіною на річці"
+      "ua": "Мішок з лупіною на річці"
     },
     "imgSrc": "",
     "iconName": "loot bag.svg",
@@ -752,7 +820,7 @@
     "name": {
       "en": "River Mouth Loot Bag",
       "es": "Bolsa de botín en la desembocadura del río.",
-      "uk": "Мішок зі здобиччю на усті річки."
+      "ua": "Мішок зі здобиччю на усті річки."
     },
     "imgSrc": "swamp lootbag.png",
     "iconName": "loot bag.svg",
@@ -764,7 +832,7 @@
     "name": {
       "en": "Carriage",
       "es": "Bolsa de botín en la desembocadura del río.",
-      "uk": "Мішок зі здобиччю на усті річки."
+      "ua": "Мішок зі здобиччю на усті річки."
     },
     "imgSrc": "carriage.png",
     "iconName": "carriage.svg",
@@ -776,43 +844,43 @@
     "name": {
       "en": "Grave Site",
       "es": "lugar de sepultura",
-      "uk": "могила"
+      "ua": "могила"
     },
     "imgSrc": "grave.png",
     "iconName": "grave.svg",
     "category": "loot",
     "tag": "grave",
-    "position": [30.30709797216177,-44.70967508796382]
+    "position": [33.961798239877034,-44.8744818823224]
   },
   {
     "name": {
       "en": "Tunnel",
       "es": "Túnel",
-      "uk": "Тунель"
+      "ua": "Тунель"
     },
-    "imgSrc": "",
+    "imgSrc": "tunnel.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Lantern</br>Enemy: None",
       "es": "Temporizador: 10 segundos</br>Coste: linterna</br>Enemigo: Ninguno",
-      "uk": "Таймер: 10 секунд</br>Вартість: ліхтар</br>Ворог: Немає"
+      "ua": "Таймер: 10 секунд</br>Вартість: ліхтар</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [-3.288485330315588,63.38703199955551]
+    "position": [-7.373461947146275,62.44873726070415]
   },
   {
     "name": {
       "en": "Broken Wagon",
       "es": "Carro Roto",
-      "uk": "Розбите візок"
+      "ua": "Розбите візок"
     },
     "imgSrc": "broken.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Wagon Wheel</br>Enemy: Anny's Outlaws",
       "es": "Temporizador: 60 segundos</br>Coste: Rueda de Carro</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість:візкове колесо</br>Ворог: Немає"
+      "ua": "Таймер: 60 секунд</br>Вартість:візкове колесо</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
@@ -822,14 +890,14 @@
     "name": {
       "en": "Salis Mercer",
       "es": "Salis Mercer",
-      "uk": "Salis Mercer"
+      "ua": "Salis Mercer"
     },
     "imgSrc": "mercer.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Pioneer Insigna</br>Enemy: None",
       "es": "Temporizador: 60 segundos</br>Coste: Insignia de Pionero</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість: Знак піонерів</br>Ворог: Немає"
+      "ua": "Таймер: 60 секунд</br>Вартість: Знак піонерів</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
@@ -839,14 +907,14 @@
     "name": {
       "en": "Cave Extraction",
       "es": "Extracción en Cueva",
-      "uk": "Видобуток з печери"
+      "ua": "Видобуток з печери"
     },
     "imgSrc": "cave.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
       "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "free",
@@ -856,48 +924,48 @@
     "name": {
       "en": "Bonfire Extraction",
       "es": "Extracción en Hoguera",
-      "uk": "Видобуток біля вогнища"
+      "ua": "Видобуток біля вогнища"
     },
     "imgSrc": "bonfire.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
       "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "free",
-    "position": [52.5625, 37.8125]
+    "position": [52.789865767567356,39.1187752272008]
   },
   {
     "name": {
       "en": "Horseman",
       "es": "Jinete",
-      "uk": "Кінник"
+      "ua": "Кінник"
     },
     "imgSrc": "horseman.png",
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: 10 Cents</br>Enemy: None",
       "es": "Temporizador: 10 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 10 секунд</br>Вартість: 10 центів</br>Ворог: Немає"
+      "ua": "Таймер: 10 секунд</br>Вартість: 10 центів</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [-21.70708717713272, 52.03466375465125]
+    "position": [-28.186694044682753,51.10844895727016]
   },
   {
     "name": {
       "en": "Unfinished Cabin",
       "es": "Cabaña en construcción",
-      "uk": "Недобудована хатка"
+      "ua": "Недобудована хатка"
     },
     "imgSrc": "unfinished-log.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: 2 patrols 3 man",
       "es": "Temporizador: 10 segundos</br>Coste: Gratis</br>Enemigo: 2 patrullas con 3 hombres cada una",
-      "uk": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: 2 патрулі з 3 людьми кожен"
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: 2 патрулі з 3 людьми кожен"
     },
     "category": "extraction",
     "tag": "free",
@@ -907,14 +975,14 @@
     "name": {
       "en": "James Sullivan",
       "es": "James Sullivan",
-      "uk": "James Sullivan (Джеймс Салліван)"
+      "ua": "James Sullivan (Джеймс Салліван)"
     },
     "imgSrc": "james sullivan.png",
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Cigar</br>Enemy: None",
       "es": "Temporizador: 10 segundos</br>Coste: Puro</br>Enemigo: Ninguno",
-      "uk": "Таймер: 10 секунд</br>Вартість: Сигара</br>Ворог: Немає"
+      "ua": "Таймер: 10 секунд</br>Вартість: Сигара</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
@@ -924,14 +992,14 @@
     "name": {
       "en": "Boatman",
       "es": "Barquero",
-      "uk": "Човник"
+      "ua": "Човник"
     },
     "imgSrc": "boatman.png",
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Maiden Portrait or Spouse Portrait or Woman Portrait</br>Enemy: None",
       "es": "Temporizador: 10 segundos</br>Coste: Retrato de Doncella o Retrato de Cónyuge o Retrato de Mujer.</br>Enemigo: Ninguno",
-      "uk": "Таймер: 10 секунд</br>Вартість: Портрет дівчини або Портрет подружжя або Портрет жінки</br>Ворог: Немає"
+      "ua": "Таймер: 10 секунд</br>Вартість: Портрет дівчини або Портрет подружжя або Портрет жінки</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
@@ -941,14 +1009,14 @@
     "name": {
       "en": "Old Hut",
       "es": "Vieja Cabaña",
-      "uk": "Стара хата"
+      "ua": "Стара хата"
     },
     "imgSrc": "old hut.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
       "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "free",
@@ -958,14 +1026,14 @@
     "name": {
       "en": "Military Wagon",
       "es": "Carro militar",
-      "uk": "Військова віза"
+      "ua": "Військова віза"
     },
     "imgSrc": "military wagon.png",
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 20 seconds</br>Cost: Lawful Uniform</br>Enemy: Military Patrol",
       "es": "Temporizador: 20 segundos</br>Coste: Uniforme militar</br>Enemigo: Patrulla militar",
-      "uk": "Таймер: 20 секунд</br>Вартість: Військовий уніформа</br>Ворог: Військова патруль"
+      "ua": "Таймер: 20 секунд</br>Вартість: Військовий уніформа</br>Ворог: Військова патруль"
     },
     "category": "extraction",
     "tag": "paid",
@@ -975,14 +1043,14 @@
     "name": {
       "en": "Abandoned Horse",
       "es": "Caballo Abandonado",
-      "uk": "Залишений кінь"
+      "ua": "Залишений кінь"
     },
     "imgSrc": "abandoned horse.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
       "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "free",
@@ -992,14 +1060,14 @@
     "name": {
       "en": "Small Outcrop",
       "es": "Pequeña formación rocosa",
-      "uk": "Невеликий виступ"
+      "ua": "Невеликий виступ"
     },
     "imgSrc": "small outcrop.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
       "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "free",
@@ -1009,14 +1077,14 @@
     "name": {
       "en": "Burned House",
       "es": "Casa quemada",
-      "uk": "Спалений будинок"
+      "ua": "Спалений будинок"
     },
     "imgSrc": "burnt house.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: Bandit Patrols",
       "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Patrullas de bandidos",
-      "uk": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Патрулі бандитів"
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Патрулі бандитів"
     },
     "category": "extraction",
     "tag": "free",
@@ -1026,14 +1094,14 @@
     "name": {
       "en": "Dead Tree",
       "es": "Árbol muerto",
-      "uk": "Мертве дерево"
+      "ua": "Мертве дерево"
     },
     "imgSrc": "dead tree.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: Indian Patrol and Boar",
       "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Patrulla india y jabalí",
-      "uk": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Індійська патруль та кабан"
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Індійська патруль та кабан"
     },
     "category": "extraction",
     "tag": "free",
@@ -1043,14 +1111,14 @@
     "name": {
       "en": "Tree on Islet",
       "es": "Árbol en Islote",
-      "uk": "Дерево на острові"
+      "ua": "Дерево на острові"
     },
     "imgSrc": "tree on the isle.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
       "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "free",
@@ -1060,14 +1128,14 @@
     "name": {
       "en": "Boat",
       "es": "Barco",
-      "uk": "Човен"
+      "ua": "Човен"
     },
     "imgSrc": "boat.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 20 seconds</br>Cost: Free</br>Enemy: Indian Patrol",
       "es": "Temporizador: 20 segundos</br>Coste: Gratis</br>Enemigo: Patrulla indígena",
-      "uk": "Таймер: 20 секунд</br>Вартість: Безкоштовно</br>Ворог: Індійська патруль"
+      "ua": "Таймер: 20 секунд</br>Вартість: Безкоштовно</br>Ворог: Індійська патруль"
     },
     "category": "extraction",
     "tag": "free",
@@ -1077,31 +1145,31 @@
     "name": {
       "en": "Rope Specialist",
       "es": "Especialista en cuerdas",
-      "uk": "Спеціаліст з мотузок"
+      "ua": "Спеціаліст з мотузок"
     },
     "imgSrc": "rope.png",
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Rope</br>Enemy: None",
       "es": "Temporizador 10 segundos</br>Coste: 5 centavos</br>Enemigo: Ninguno",
-      "uk": "Таймер: 10 секунд</br>Вартість: 5 центів</br>Ворог: Немає"
+      "ua": "Таймер: 10 секунд</br>Вартість: 5 центів</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [-52.15748031496078, -51.02362204724409]
+    "position": [-38.82264001394336,-58.55088453974248]
   },
   {
     "name": {
       "en": "Forgotten Boviac",
       "es": "Boviac Olvidado",
-      "uk": "Забута Бовіак"
+      "ua": "Забута Бовіак"
     },
     "imgSrc": "forgotten.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
       "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд></br>Вартість: Безкоштовно</br>Ворог: Немає"
+      "ua": "Таймер: 60 секунд></br>Вартість: Безкоштовно</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "free",
@@ -1111,14 +1179,14 @@
     "name": {
       "en": "Conductor",
       "es": "Conductor",
-      "uk": "Водій"
+      "ua": "Водій"
     },
     "imgSrc": "conductor.png",
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Leather Braclet or Wooden Casket</br>Enemy: None",
       "es": "Temporizador:10 segundos</br>Coste: Pulsera de Cuero o Caja de Madera</br>Enemigo: Ninguno",
-      "uk": "Таймер: 10 секунд</br>Вартість: Шкіряний браслет або Дерев'яний Ящик центів</br>Ворог: Немає"
+      "ua": "Таймер: 10 секунд</br>Вартість: Шкіряний браслет або Дерев'яний Ящик центів</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
@@ -1128,14 +1196,14 @@
     "name": {
       "en": "Ruinded Tents",
       "es": "Tiendas arruinadas",
-      "uk": "Пошкоджені намети"
+      "ua": "Пошкоджені намети"
     },
     "imgSrc": "ruined-tents.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
       "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "free",
@@ -1145,14 +1213,14 @@
     "name": {
       "en": "Wagon",
       "es": "vagón",
-      "uk": "вагон"
+      "ua": "вагон"
     },
     "imgSrc": "wagon.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 20 seconds</br>Cost: Free</br>Enemy: None",
       "es": "Temporizador: 20 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 20 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+      "ua": "Таймер: 20 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "free",
@@ -1162,14 +1230,14 @@
     "name": {
       "en": "Southern Ravine",
       "es": "Barranco del Sur",
-      "uk": "Південний яр"
+      "ua": "Південний яр"
     },
     "imgSrc": "southern-ravine.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 20 seconds</br>Cost: Free</br>Enemy: None",
       "es": "Temporizador: 20 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 20 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+      "ua": "Таймер: 20 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "free",
@@ -1179,14 +1247,14 @@
     "name": {
       "en": "Lost Campers",
       "es": "Campistas perdidos",
-      "uk": "Загублені туристи"
+      "ua": "Загублені туристи"
     },
     "imgSrc": "lost camp.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Gun Parts, Barter Items",
       "es": "Botín: Piezas de pistola, Artículos de trueque",
-      "uk": "Здобич: Деталі гвинтівки, Товари для торгівлі"
+      "ua": "Здобич: Деталі гвинтівки, Товари для торгівлі"
     },
     "category": "poi",
     "tag": "camp",
@@ -1196,14 +1264,14 @@
     "name": {
       "en": "Lumber Camp",
       "es": "Campamento maderero",
-      "uk": "Дров'яний табір"
+      "ua": "Дров'яний табір"
     },
     "imgSrc": "lumbercamp.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Hook latch, Oil, gun parts</br>Boss: Red Shirt Roaming",
       "es": "Botín: Gancho de pestillo, Aceite, piezas de pistola</br>Jefe: Camisa roja ambulante",
-      "uk": "Винос: Гак защіпки, Олія, деталі гвинта</br>Бос: Червона сорочка блукає"
+      "ua": "Винос: Гак защіпки, Олія, деталі гвинта</br>Бос: Червона сорочка блукає"
     },
     "category": "poi",
     "tag": "camp",
@@ -1213,14 +1281,14 @@
     "name": {
       "en": "Illay's Farm",
       "es": "Granja de Illay",
-      "uk": "Ферма Іллая"
+      "ua": "Ферма Іллая"
     },
     "imgSrc": "farm.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Sewing Machine, Can Sealer, Event Shovel Key Needed: Illay's Key",
       "es": "Botín: Máquina de coser, Sellador de latas, Pala de evento. Necesario: Llave de Illay",
-      "uk": "Винос: Швейна машина, Закупорювач блях, Ключ від лопати події. Потрібно: Ключ від Іллая"
+      "ua": "Винос: Швейна машина, Закупорювач блях, Ключ від лопати події. Потрібно: Ключ від Іллая"
     },
     "category": "poi",
     "tag": "camp",
@@ -1230,14 +1298,14 @@
     "name": {
       "en": "Military Medic",
       "es": "Médico militar",
-      "uk": "Військовий медик"
+      "ua": "Військовий медик"
     },
     "imgSrc": "medic.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Salves, Meds</br>Key needed: Medic Key",
       "es": "Botín: Ungüentos, Medicamentos. Llave necesaria: Llave del médico",
-      "uk": "Винос: Мазі, Засоби медичного призначення. Потрібний ключ: Ключ від медика"
+      "ua": "Винос: Мазі, Засоби медичного призначення. Потрібний ключ: Ключ від медика"
     },
     "category": "poi",
     "tag": "camp",
@@ -1247,14 +1315,14 @@
     "name": {
       "en": "Anny's Village",
       "es": "Pueblo de Anny",
-      "uk": "Село Енні"
+      "ua": "Село Енні"
     },
     "imgSrc": "annies 1.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Sewing Machine, Gun Parts, Sheriff Badge</br> Keys Needed: Smiths, Millers, Johnsons",
       "es": "Botín: Máquina de coser, Piezas de pistola, Placa del sheriff</br>Llaves necesarias: Smiths, Millers, Johnsons",
-      "uk": "Винос: Швейна машина, Деталі гвинта, Значок шерифа. Потрібні ключі: Смітси, Міллери, Джонсони"
+      "ua": "Винос: Швейна машина, Деталі гвинта, Значок шерифа. Потрібні ключі: Смітси, Міллери, Джонсони"
     },
     "category": "poi",
     "tag": "camp",
@@ -1264,14 +1332,14 @@
     "name": {
       "en": "Rattan Camp",
       "es": "Campamento Rattan",
-      "uk": "Табір Раттан"
+      "ua": "Табір Раттан"
     },
     "imgSrc": "rattan camp.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Percision Tool Kit, Silienced .38, .44, .45",
       "es": "Botín: Kit de herramientas de precisión, .38, .44, .45 silenciados",
-      "uk": "Винос: Набір інструментів для точних робіт, .38, .44, .45 з приглушником"
+      "ua": "Винос: Набір інструментів для точних робіт, .38, .44, .45 з приглушником"
     },
     "category": "poi",
     "tag": "camp",
@@ -1281,7 +1349,7 @@
     "name": {
       "en": "Destroyed Barn",
       "es": "Granero destruido",
-      "uk": "Знищений амбар"
+      "ua": "Знищений амбар"
     },
     "imgSrc": "lumber barn.png",
     "iconName": "poi.svg",
@@ -1293,14 +1361,14 @@
     "name": {
       "en": "Eastern Cabin",
       "es": "Cabaña del Este",
-      "uk": "Східна хата"
+      "ua": "Східна хата"
     },
     "imgSrc": "eastern cabin.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Tier 3 Armor, Guns",
       "es": "Botín: Armadura de nivel 3, Armas",
-      "uk": "Винос: Броня 3 рівня, Зброя"
+      "ua": "Винос: Броня 3 рівня, Зброя"
     },
     "category": "poi",
     "tag": "camp",
@@ -1310,14 +1378,14 @@
     "name": {
       "en": "Caravan Camp",
       "es": "Campamento de Caravanas",
-      "uk": "Табір каравану"
+      "ua": "Табір каравану"
     },
     "imgSrc": "caravan camp.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Rep Surgery book, spices, gun parts</br>Boss: Red Shirt Roaming",
       "es": "Botín: Libro de Cirugía de Reparación, Especias, Piezas de armas</br>Jefe: Camisa roja ambulante",
-      "uk": "Винос: Книга з хірургічними операціями, Спеції, Деталі зброї</br>Бос: Червона сорочка блукає"
+      "ua": "Винос: Книга з хірургічними операціями, Спеції, Деталі зброї</br>Бос: Червона сорочка блукає"
     },
     "category": "poi",
     "tag": "camp",
@@ -1327,14 +1395,14 @@
     "name": {
       "en": "Humble Camp",
       "es": "Campamento Humilde",
-      "uk": "Скромний табір"
+      "ua": "Скромний табір"
     },
     "imgSrc": "",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Event Shovel, Gun Parts",
       "es": "Botín: Pico de Evento, Piezas de Arma",
-      "uk": "Loot: Event Shovel, Gun Parts"
+      "ua": "Loot: Event Shovel, Gun Parts"
     },
     "category": "poi",
     "tag": "camp",
@@ -1344,14 +1412,14 @@
     "name": {
       "en": "Widows Cabin",
       "es": "Cabaña de Widows",
-      "uk": "Хатина вдови"
+      "ua": "Хатина вдови"
     },
     "imgSrc": "",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Money, Meds, Widows Book for Rep., Gun Parts",
       "es": "Botín: dinero, medicamentos, Libro de Widows para reparar, piezas de arma",
-      "uk": "Здобич: Гроші, Ліки, Книга відьом для ремонту, Частини зброї"
+      "ua": "Здобич: Гроші, Ліки, Книга відьом для ремонту, Частини зброї"
     },
     "category": "poi",
     "tag": "camp",
@@ -1361,14 +1429,14 @@
     "name": {
       "en": "Lumber Jacks Hideout",
       "es": "Escondite de leñadores",
-      "uk": "Сховок Лумберджакс"
+      "ua": "Сховок Лумберджакс"
     },
     "imgSrc": "lumberjacks hideout.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Axes, Wood, Barter Items",
       "es": "Botín: Hachas, Madera, Artículos de trueque",
-      "uk": "Здобич: Тесли, Дерево, Торгівельні предмети"
+      "ua": "Здобич: Тесли, Дерево, Торгівельні предмети"
     },
     "category": "poi",
     "tag": "camp",
@@ -1378,14 +1446,14 @@
     "name": {
       "en": "Fishing Log Cabin",
       "es": "Cabaña de Pesca",
-      "uk": "Логова хатка для риболовлі"
+      "ua": "Логова хатка для риболовлі"
     },
     "imgSrc": "fishers log.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Fish, Barter Items",
       "es": "Botín: Pescado, Artículos de trueque",
-      "uk": "Здобич: Риба, Торгівельні предмети"
+      "ua": "Здобич: Риба, Торгівельні предмети"
     },
     "category": "poi",
     "tag": "camp",
@@ -1395,14 +1463,14 @@
     "name": {
       "en": "Fishing Station",
       "es": "Estación de Pesca",
-      "uk": "Риболовна станція"
+      "ua": "Риболовна станція"
     },
     "imgSrc": "fishing station.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Fish, Gun Parts, Barter Items",
       "es": "Botín: Pescado, Piezas de Arma, Artículos de trueque",
-      "uk": "Здобич: Риба, Частини зброї, Торгівельні предмети"
+      "ua": "Здобич: Риба, Частини зброї, Торгівельні предмети"
     },
     "category": "poi",
     "tag": "camp",
@@ -1412,7 +1480,7 @@
     "name": {
       "en": "Fort Dickson",
       "es": "Fuerte Dickson",
-      "uk": "Форт Dickson (Діксон)"
+      "ua": "Форт Dickson (Діксон)"
 
     },
     "imgSrc": "dickson.png",
@@ -1420,7 +1488,7 @@
     "description": {
       "en": "Loot: Swaggin Press, Crucible, Gun Parts, Brass Sheets",
       "es": "Botín: Prensa de Swaggin, Crisol, Piezas de Arma, Hojas de Latón",
-      "uk": "Здобич: Преса Swaggin, Кралю, Частини зброї, Латунні пласти"
+      "ua": "Здобич: Преса Swaggin, Кралю, Частини зброї, Латунні пласти"
     },
     "category": "poi",
     "tag": "camp",
@@ -1430,14 +1498,14 @@
     "name": {
       "en": "Fort Berry",
       "es": "Fuerte Berry",
-      "uk": "Фортеця Berry (Беррі)"
+      "ua": "Фортеця Berry (Беррі)"
     },
     "imgSrc": "fort berry.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: 100% Gun, Gun Parts, Brass/Aluminun Sheets, Backpack, Bombs",
       "es": "Botín: Arma al 100%, Piezas de Arma, Hojas de Latón/Aluminio, Mochila, Bombas",
-      "uk": "Здобич: 100% зброя, Частини зброї, Латунні/Алюмінієві пласти, Рюкзак, Бомби"
+      "ua": "Здобич: 100% зброя, Частини зброї, Латунні/Алюмінієві пласти, Рюкзак, Бомби"
     },
     "category": "poi",
     "tag": "camp",
@@ -1447,14 +1515,14 @@
     "name": {
       "en": "Iron Mine",
       "es": "Mina de Hierro",
-      "uk": "Залізна шахта"
+      "ua": "Залізна шахта"
     },
     "imgSrc": "iron mine.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Train Book for Rep, Pocket Watch for Rep, Gun Parts, Smokeless #5",
       "es": "Botín: Libro de Tren para Reparación, Reloj de Bolsillo para Reparación, Piezas de Arma, Pólvora Sin Humo #5",
-      "uk": "Здобич: Книга поїзда для ремонту, Годинник для ремонту, Частини зброї, Бездимний порох #5"
+      "ua": "Здобич: Книга поїзда для ремонту, Годинник для ремонту, Частини зброї, Бездимний порох #5"
     },
     "category": "poi",
     "tag": "camp",
@@ -1464,14 +1532,14 @@
     "name": {
       "en": "Dino Grave",
       "es": "Tumba de Dinosaurio",
-      "uk": "Могила динозавра"
+      "ua": "Могила динозавра"
     },
     "imgSrc": "dino.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Backpack, Pickax",
       "es": "Botín: Mochila, Pico",
-      "uk": "Здобич: Рюкзак, Кирка"
+      "ua": "Здобич: Рюкзак, Кирка"
     },
     "category": "poi",
     "tag": "camp",
@@ -1481,14 +1549,14 @@
     "name": {
       "en": "Horse Circle",
       "es": "Círculo de Caballos",
-      "uk": "Коло коней"
+      "ua": "Коло коней"
     },
     "imgSrc": "horse circle.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Bones",
       "es": "Botín: Huesos",
-      "uk": "Здобич: Кістки"
+      "ua": "Здобич: Кістки"
     },
     "category": "poi",
     "tag": "camp",
@@ -1498,14 +1566,14 @@
     "name": {
       "en": "Bob Ross",
       "es": "Bob Ross",
-      "uk": "Bob Ross (Боб Росс)"
+      "ua": "Bob Ross (Боб Росс)"
     },
     "imgSrc": "bob ross.png",
     "iconName": "bob.svg",
     "description": {
       "en": "Loot: Gun, Barter Items",
       "es": "Botín: Arma, Artículos de trueque",
-      "uk": "Здобич: Зброя, Торгівельні предмети"
+      "ua": "Здобич: Зброя, Торгівельні предмети"
     },
     "category": "loot",
     "tag": "bob ross",
@@ -1515,14 +1583,14 @@
     "name": {
       "en": "Dickson Wagon",
       "es": "Carro de Dickson",
-      "uk": "Вагон Діксона"
+      "ua": "Вагон Діксона"
     },
     "imgSrc": "dickson wagon.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Event Shovel, Dickson Shed Key, Barter Items",
       "es": "Botín: Pala de Evento, Llave de Cobertizo de Dickson, Artículos de trueque",
-      "uk": "Здобич: Шovel події, Ключ від сараю Діксона, Торгівельні предмети"
+      "ua": "Здобич: Шovel події, Ключ від сараю Діксона, Торгівельні предмети"
     },
     "category": "poi",
     "tag": "camp",
@@ -1532,14 +1600,14 @@
     "name": {
       "en": "Tee Pee Settlment",
       "es": "Asentamiento de Tipis",
-      "uk": "Поселення Тее-Пі"
+      "ua": "Поселення Тее-Пі"
     },
     "imgSrc": "teepee settlement.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Barter Items, Bows, Arrows",
       "es": "Botín: Artículos de trueque, Arcos, Flechas",
-      "uk": "Здобич: Торгівельні предмети, Арки, Стріли"
+      "ua": "Здобич: Торгівельні предмети, Арки, Стріли"
     },
     "category": "poi",
     "tag": "camp",
@@ -1549,14 +1617,14 @@
     "name": {
       "en": "Plains Tee Pee Settlment",
       "es": "Asentamiento de Tipis de las LLanuras",
-      "uk": "Поселення Тее-Пі на рівнинах"
+      "ua": "Поселення Тее-Пі на рівнинах"
     },
     "imgSrc": "plains tee pees.png",
     "iconName": "poi.svg",
     "description": {
       "en": "Loot: Barter Items, Bows, Arrows",
       "es": "Botín: Artículos de trueque, Arcos, Flechas",
-      "uk": "Здобич: Торгівельні предмети, Арки, Стріли"
+      "ua": "Здобич: Торгівельні предмети, Арки, Стріли"
     },
     "category": "poi",
     "tag": "camp",
@@ -1566,31 +1634,31 @@
     "name": {
       "en": "Destroyed Bridge Wagon",
       "es": "Vagón de puente destruido",
-      "uk": "Розбитий вагон-мостовий"
+      "ua": "Розбитий вагон-мостовий"
     },
     "imgSrc": "wagon.gif",
     "iconName": "wagon.svg",
     "description": {
       "en": "Loot: Assembly Kits, Machines, Ammo, Tools",
       "es": "Botín: Kits de montaje, Máquinas, Municiones, Herramientas",
-      "uk": "Здобич: Набори для збирання, Машини, Набої, Інструменти"
+      "ua": "Здобич: Набори для збирання, Машини, Набої, Інструменти"
     },
     "category": "poi",
     "tag": "wagon",
-    "position": [3.3749999999999716, 2.250000000000014]
+    "position": [-0.6913821765816124,-3.7396782281333003]
   },
   {
     "name": {
       "en": "Swamp Wagon",
       "es": "Vagón de ciénaga",
-      "uk": "Вагон болота"
+      "ua": "Вагон болота"
     },
     "imgSrc": "",
     "iconName": "wagon.svg",
     "description": {
       "en": "Loot: Assembly Kits, Machines, Ammo, Tools",
       "es": "Botín: Kits de montaje, Máquinas, Municiones, Herramientas",
-      "uk": "Здобич: Набори для збирання, Машини, Набої, Інструменти"
+      "ua": "Здобич: Набори для збирання, Машини, Набої, Інструменти"
     },
     "category": "poi",
     "tag": "wagon",
