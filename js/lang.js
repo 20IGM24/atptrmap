@@ -3,7 +3,7 @@ import $ from "jquery";
 // Styles
 import "../css/lang.css";
 
-const LANGS = ["en", "es", "uk"];
+const LANGS = ["en", "es", "ua"];
 
 function detectLanguage() {
   if (!localStorage.hasOwnProperty("lang")) {
