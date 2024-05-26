@@ -5,7 +5,7 @@
         "name": {
             "en": "Loot",
             "es": "Botín",
-            "uk": "Здобич"
+            "ua": "Здобич"
         },
         "color": "#006400",
         "children": [
@@ -15,7 +15,7 @@
                 "name": {
                     "en": "Chest",
                     "es": "Cofre",
-                    "uk": "Схованка"
+                    "ua": "Схованка"
                 }
             },
             {
@@ -24,7 +24,7 @@
                 "name": {
                     "en": "Diving Helmet",
                     "es": "Casco de buceo",
-                    "uk": "Каска для погруження"
+                    "ua": "Каска для погруження"
                 }
             },
             {
@@ -33,7 +33,7 @@
                 "name": {
                     "en": "Cash Register",
                     "es": "Caja registradora",
-                    "uk": "Касовий реєстратор"
+                    "ua": "Касовий реєстратор"
                 }
             },
             
@@ -43,7 +43,7 @@
                 "name": {
                     "en": "Bob Ross",
                     "es": "Bob Ross",
-                    "uk": "Bob Ross (Боб Росс)"
+                    "ua": "Bob Ross (Боб Росс)"
                 }
             },
             {
@@ -52,7 +52,7 @@
                 "name": {
                     "en": "Carriage",
                     "es": "carruaje",
-                    "uk": "вагон"
+                    "ua": "вагон"
                 }
             },
             {
@@ -61,7 +61,7 @@
                 "name": {
                     "en": "Grave Site",
                     "es": "lugar de sepultura",
-                    "uk": "могила"
+                    "ua": "могила"
                 }
             },
             {
@@ -70,7 +70,7 @@
                 "name": {
                     "en": "Loot Bag",
                     "es": "Bolsa de botín",
-                    "uk": "Торбала з лат"
+                    "ua": "Торбала з лат"
                 }
             },
             {
@@ -79,7 +79,7 @@
                 "name": {
                     "en": "Event Chest",
                     "es": "Cofre de Evento",
-                    "uk": "Сховище події"
+                    "ua": "Сховище події"
 
                 }
             },
@@ -89,7 +89,7 @@
                 "name": {
                     "en": "Backpack",
                     "es": "Mochila",
-                    "uk": "Рюкзак"
+                    "ua": "Рюкзак"
                 }
             }
         ]
@@ -100,7 +100,7 @@
         "name": {
             "en": "Extraction",
             "es": "Extracción",
-            "uk": "Вилучення"
+            "ua": "Вилучення"
         },
         "color": "#3e92d0",
         "children": [
@@ -110,7 +110,7 @@
                 "name": {
                     "en": "Paid Exit",
                     "es": "Salida de pago",
-                    "uk": "Оплачена вихід"
+                    "ua": "Оплачена вихід"
                 }
             },
             {
@@ -119,7 +119,7 @@
                 "name": {
                     "en": "Free Exit",
                     "es": "Salida gratuita",
-                    "uk": "Безкоштовна вихід"
+                    "ua": "Безкоштовна вихід"
                 }
             }
         ]
@@ -130,7 +130,7 @@
         "name": {
             "en": "Hunting",
             "es": "Caza",
-            "uk": "Охота"
+            "ua": "Охота"
         },
         "color": "#3e92d0",
         "children": [
@@ -140,7 +140,7 @@
                 "name": {
                     "en": "Deer",
                     "es": "Ciervo",
-                    "uk": "Олень"
+                    "ua": "Олень"
                 }
             },
             {
@@ -149,7 +149,7 @@
                 "name": {
                     "en": "Wolf",
                     "es": "Lobo",
-                    "uk": "Вовк"
+                    "ua": "Вовк"
                 }
             },
             {
@@ -158,7 +158,7 @@
                 "name": {
                     "en": "Boar",
                     "es": "Jabalí",
-                    "uk": "Сарана"
+                    "ua": "Сарана"
                 }
             }
         ]
@@ -169,7 +169,7 @@
         "name": {
             "en": "Point of Interest",
             "es": "Punto de interés",
-            "uk": "Пункт інтересу"
+            "ua": "Пункт інтересу"
         },
         "color": "#FFA500",
         "children": [
@@ -179,7 +179,7 @@
                 "name": {
                     "en": "Camp",
                     "es": "Campamento",
-                    "uk": "База"
+                    "ua": "База"
                 }
             },
             {
@@ -188,7 +188,7 @@
                 "name": {
                     "en": "Wagon",
                     "es": "Carro",
-                    "uk": "Вагон"
+                    "ua": "Вагон"
                 }
             }
         ]
@@ -199,7 +199,7 @@
         "name": {
             "en": "Enemy",
             "es": "Enemigo",
-            "uk": "Ворог"
+            "ua": "Ворог"
         },
         "color": "#d43c3c",
         "children": [
@@ -209,7 +209,7 @@
                 "name": {
                     "en": "Boss",
                     "es": "Jefe",
-                    "uk": "Босс"
+                    "ua": "Босс"
                 }
             }
         ]
