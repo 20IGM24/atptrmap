@@ -7,7 +7,7 @@
 }
 
 #tag-selector {
-  display: block;
+  display: none;
   height: calc(100vh - 100px);
   position: absolute;
   background-color: var(--background-color);
