@@ -7,7 +7,8 @@
 }
 
 #tag-selector {
-  display: none;
+  display: block;
+  height: calc(100vh - 100px);
   position: absolute;
   background-color: var(--background-color);
   z-index: 9999;
@@ -16,6 +17,11 @@
   max-width: 510px;
   animation: fadeIn 0.05s linear;
   padding: 0 20px 0 20px;
+}
+
+#tag-selector-content {
+  height: 100%;
+  overflow: scroll;
 }
 
 .tag-btn,
