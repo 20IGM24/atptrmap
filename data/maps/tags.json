@@ -207,11 +207,43 @@
                 "id": "enemy_spawn",
                 "iconName": "enemy_spawn.svg",
                 "name": {
-                    "en": "Boss",
-                    "es": "Jefe",
-                    "ua": "Босс"
+                    "en": "POI Boss",
+                    "es": "POI Jefe",
+                    "ua": "POI Босс"
                 }
-            }
+            },
+
+                {
+                    "id": "widows",
+                    "iconName": "widows.svg",
+                    "name": {
+                        "en": "Boss",
+                        "es": "Jefe",
+                        "ua": "Босс"
+                    }
+                },
+            
+                {
+                    "id": "rattan",
+                    "iconName": "rattan.svg",
+                    "name": {
+                        "en": "Rattan",
+                        "es": "Ratán",
+                        "ua": "Ротанг"
+                    }
+                },
+                {
+                    "id": "lawman1",
+                    "iconName": "lawman1.svg",
+                    "name": {
+                        "en": "Lawman I",
+                        "es": "Lawman I",
+                        "ua": "Lawman I"
+                    }
+                }
+                
+            
+            
         ]
     }
 ]

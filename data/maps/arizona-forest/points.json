@@ -613,14 +613,14 @@
       "ua": "Rattan (Раттан)"
     },
     "imgSrc": "rattan.png",
-    "iconName": "enemy_spawn.svg",
+    "iconName": "rattan.svg",
     "description": {
       "en": "Loot: Percision Tool Kit, Silenced .38, .44, .45",
       "es": "Botín: Kit de Herramientas de Precisión, Pistola Silenciada .38, .44, .45",
       "ua": "Здобич: Набір Інструментів для Точної Роботи, Пістолети З Приглушником .38, .44, .45"
     },
     "category": "enemy",
-    "tag": "enemy_spawn",
+    "tag": "rattan",
     "position": [56.67187499999997, -22.921874999999986]
   },
 {
@@ -630,14 +630,14 @@
       "ua": "Widows (Вдови)"
     },
     "imgSrc": "widow2.png",
-    "iconName": "enemy_spawn.svg",
+    "iconName": "widows.svg",
     "description": {
       "en": "Loot: Gun Parts, Special Hats",
       "es": "Botín: Piezas de armas, Sombreros especiales",
       "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
     },
     "category": "enemy",
-    "tag": "enemy_spawn",
+    "tag": "widows",
     "position": [ -50.86843632140684,19.306838389616473]
   },
 {
@@ -647,14 +647,14 @@
       "ua": "Widows (Вдови)"
     },
     "imgSrc": "widow2.png",
-    "iconName": "enemy_spawn.svg",
+    "iconName": "widows.svg",
     "description": {
       "en": "Loot: Gun Parts, Special Hats",
       "es": "Botín: Piezas de armas, Sombreros especiales",
       "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
     },
     "category": "enemy",
-    "tag": "enemy_spawn",
+    "tag": "widows",
     "position": [-43.164481419585044,54.700370329870225]
   },
   {
@@ -664,14 +664,14 @@
       "ua": "Widows (Вдови)"
     },
     "imgSrc": "widow2.png",
-    "iconName": "enemy_spawn.svg",
+    "iconName": "widows.svg",
     "description": {
       "en": "Loot: Gun Parts, Special Hats",
       "es": "Botín: Piezas de armas, Sombreros especiales",
       "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
     },
     "category": "enemy",
-    "tag": "enemy_spawn",
+    "tag": "widows",
     "position": [-23.76562500000003, 36.703125000000014]
   },
 {
@@ -681,14 +681,14 @@
       "ua": "Widows (Вдови)"
     },
     "imgSrc": "widow2.png",
-    "iconName": "enemy_spawn.svg",
+    "iconName": "widows.svg",
     "description": {
       "en": "Loot: Gun Parts, Special Hats",
       "es": "Botín: Piezas de armas, Sombreros especiales",
       "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
     },
     "category": "enemy",
-    "tag": "enemy_spawn",
+    "tag": "widows",
     "position": [-32.55758698954055,17.632065584872606]
   },
   {
@@ -698,7 +698,7 @@
       "ua": "Індіанські ватажки"
     },
     "imgSrc": "chiefs.png",
-    "iconName": "enemy_spawn.svg",
+    "iconName": "indians.svg",
     "description": {
       "en": "Loot: Bows, Arrows",
       "es": "Botín: Arcos, Flechas",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": {
-      "en": "Abandoned Horse",
+      "en": "Abandoned Horse - Fort Dickson",
       "es": "Caballo Abandonado",
       "ua": "Залишений кінь"
     },
@@ -1055,6 +1055,40 @@
     "category": "extraction",
     "tag": "free",
     "position": [-10.771653543307451, -13.322834645669289]
+  },
+  {
+    "name": {
+      "en": "Abandoned Horse - Southern Ravine",
+      "es": "Caballo Abandonado",
+      "ua": "Залишений кінь"
+    },
+    "imgSrc": "",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+      "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+    },
+    "category": "extraction",
+    "tag": "free",
+    "position": [-50.407554480475824,26.214874026883642]
+  },
+  {
+    "name": {
+      "en": "Abandoned Horse-Fort Berry",
+      "es": "Caballo Abandonado",
+      "ua": "Залишений кінь"
+    },
+    "imgSrc": "",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
+      "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
+      "ua": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+    },
+    "category": "extraction",
+    "tag": "free",
+    "position": [32.95394060983401,29.404049184430033]
   },
   {
     "name": {
@@ -1245,9 +1279,9 @@
   },
   {
     "name": {
-      "en": "Lost Campers",
-      "es": "Campistas perdidos",
-      "ua": "Загублені туристи"
+      "en": "Yharet's Demise",
+      "es": "El Fallecimiento de Yharet",
+      "ua": "Смерть Ярета"
     },
     "imgSrc": "lost camp.png",
     "iconName": "poi.svg",
@@ -1615,6 +1649,23 @@
   },
   {
     "name": {
+      "en": "Destroyed Shack",
+      "es": "Asentamiento de Tipis",
+      "ua": "Поселення Тее-Пі"
+    },
+    "imgSrc": "surelocks desmise.png",
+    "iconName": "poi.svg",
+    "description": {
+      "en": "Loot: Backpack, Gunparts, Food/Water",
+      "es": "Botín: Artículos de trueque, Arcos, Flechas",
+      "ua": "Здобич: Торгівельні предмети, Арки, Стріли"
+    },
+    "category": "poi",
+    "tag": "camp",
+    "position": [-29.328703703703695,-26.8125]
+  },
+  {
+    "name": {
       "en": "Plains Tee Pee Settlment",
       "es": "Asentamiento de Tipis de las LLanuras",
       "ua": "Поселення Тее-Пі на рівнинах"
@@ -1663,5 +1714,23 @@
     "category": "poi",
     "tag": "wagon",
     "position": [63.70312499999997, 26.718750000000014]
+  },
+  
+  {
+    "name": {
+      "en": "Lawman I",
+      "es": "Lawman I",
+      "ua": "Lawman I"
+    },
+    "imgSrc": "",
+    "iconName": "lawman1.svg",
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    },
+    "category": "enemy",
+    "tag": "lawman1",
+    "position": [20.987309793628327,18.380020570756017]
   }
 ]
