@@ -722,6 +722,30 @@
   },
   {
     "name": {
+      "en": "Dig Site - East of Old Hut",
+      "es": "Excavación - Cuerda",
+      "ua": "Місце розкопок - Мотузка"
+    },
+    "imgSrc": "",
+    "iconName": "event chest.svg",
+    "category": "loot",
+    "tag": "Event Chest",
+    "position": [13.055617357631998,11.368314517944157]
+  },
+  {
+    "name": {
+      "en": "Dig Site - East of Tee Pee Settlement",
+      "es": "Excavación - Cuerda",
+      "ua": "Місце розкопок - Мотузка"
+    },
+    "imgSrc": "",
+    "iconName": "event chest.svg",
+    "category": "loot",
+    "tag": "Event Chest",
+    "position": [5.095125466039889,-40.19423718466322]
+  },
+  {
+    "name": {
       "en": "Dig Site - Swamp",
       "es": "Excavación - Pantano",
       "ua": "Місце розкопок - Болото"
@@ -798,11 +822,23 @@
       "es": "Carretera - Bolsa de botín",
       "ua": "Дорога - Мішок з лупіною"
     },
-    "imgSrc": "",
+    "imgSrc": "road-lootbag.png",
     "iconName": "loot bag.svg",
     "category": "loot",
     "tag": "loot bag",
-    "position": [-57.937500000000036, -0.5624999999999929]
+    "position": [-53.256680692950354,4.525080135900698]
+  },
+  {
+    "name": {
+      "en": "Southern Ravine - Loot Bag",
+      "es": "Carretera - Bolsa de botín",
+      "ua": "Дорога - Мішок з лупіною"
+    },
+    "imgSrc": "southernravine-lootbag.png",
+    "iconName": "loot bag.svg",
+    "category": "loot",
+    "tag": "loot bag",
+    "position": [-54.773890626569894,28.48933643922635]
   },
   {
     "name": {
@@ -827,6 +863,18 @@
     "category": "loot",
     "tag": "loot bag",
     "position": [-49.07812500000003, -39.796874999999986]
+  },
+  {
+    "name": {
+      "en": "TNT Box",
+      "es": "Carretera - Bolsa de botín",
+      "ua": "Дорога - Мішок з лупіною"
+    },
+    "imgSrc": "tnt.png",
+    "iconName": "loot bag.svg",
+    "category": "loot",
+    "tag": "loot bag",
+    "position": [-48.43265814449573,12.09532931861782]
   },
   {
     "name": {
@@ -1062,7 +1110,7 @@
       "es": "Caballo Abandonado",
       "ua": "Залишений кінь"
     },
-    "imgSrc": "",
+    "imgSrc": "abandoned-southernravine.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
@@ -1071,7 +1119,7 @@
     },
     "category": "extraction",
     "tag": "free",
-    "position": [-50.407554480475824,26.214874026883642]
+    "position": [-50.90112926116224,24.492854788017375]
   },
   {
     "name": {
@@ -1262,7 +1310,7 @@
   },
   {
     "name": {
-      "en": "Southern Ravine",
+      "en": "Southern Passage",
       "es": "Barranco del Sur",
       "ua": "Південний яр"
     },
@@ -1318,7 +1366,7 @@
       "ua": "Ферма Іллая"
     },
     "imgSrc": "farm.png",
-    "iconName": "poi.svg",
+    "iconName": "poimedium.svg",
     "description": {
       "en": "Loot: Sewing Machine, Can Sealer, Event Shovel Key Needed: Illay's Key",
       "es": "Botín: Máquina de coser, Sellador de latas, Pala de evento. Necesario: Llave de Illay",
@@ -1335,7 +1383,7 @@
       "ua": "Військовий медик"
     },
     "imgSrc": "medic.png",
-    "iconName": "poi.svg",
+    "iconName": "poimedium.svg",
     "description": {
       "en": "Loot: Salves, Meds</br>Key needed: Medic Key",
       "es": "Botín: Ungüentos, Medicamentos. Llave necesaria: Llave del médico",
@@ -1352,7 +1400,7 @@
       "ua": "Село Енні"
     },
     "imgSrc": "annies 1.png",
-    "iconName": "poi.svg",
+    "iconName": "poihard.svg",
     "description": {
       "en": "Loot: Sewing Machine, Gun Parts, Sheriff Badge</br> Keys Needed: Smiths, Millers, Johnsons",
       "es": "Botín: Máquina de coser, Piezas de pistola, Placa del sheriff</br>Llaves necesarias: Smiths, Millers, Johnsons",
@@ -1369,7 +1417,7 @@
       "ua": "Табір Раттан"
     },
     "imgSrc": "rattan camp.png",
-    "iconName": "poi.svg",
+    "iconName": "poimedium.svg",
     "description": {
       "en": "Loot: Percision Tool Kit, Silienced .38, .44, .45",
       "es": "Botín: Kit de herramientas de precisión, .38, .44, .45 silenciados",
@@ -1415,7 +1463,7 @@
       "ua": "Табір каравану"
     },
     "imgSrc": "caravan camp.png",
-    "iconName": "poi.svg",
+    "iconName": "poieasy.svg",
     "description": {
       "en": "Loot: Rep Surgery book, spices, gun parts</br>Boss: Red Shirt Roaming",
       "es": "Botín: Libro de Cirugía de Reparación, Especias, Piezas de armas</br>Jefe: Camisa roja ambulante",
@@ -1466,7 +1514,7 @@
       "ua": "Сховок Лумберджакс"
     },
     "imgSrc": "lumberjacks hideout.png",
-    "iconName": "poi.svg",
+    "iconName": "poieasy.svg",
     "description": {
       "en": "Loot: Axes, Wood, Barter Items",
       "es": "Botín: Hachas, Madera, Artículos de trueque",
@@ -1483,7 +1531,7 @@
       "ua": "Логова хатка для риболовлі"
     },
     "imgSrc": "fishers log.png",
-    "iconName": "poi.svg",
+    "iconName": "poieasy.svg",
     "description": {
       "en": "Loot: Fish, Barter Items",
       "es": "Botín: Pescado, Artículos de trueque",
@@ -1500,7 +1548,7 @@
       "ua": "Риболовна станція"
     },
     "imgSrc": "fishing station.png",
-    "iconName": "poi.svg",
+    "iconName": "poieasy.svg",
     "description": {
       "en": "Loot: Fish, Gun Parts, Barter Items",
       "es": "Botín: Pescado, Piezas de Arma, Artículos de trueque",
@@ -1518,7 +1566,7 @@
 
     },
     "imgSrc": "dickson.png",
-    "iconName": "poi.svg",
+    "iconName": "poimedium.svg",
     "description": {
       "en": "Loot: Swaggin Press, Crucible, Gun Parts, Brass Sheets",
       "es": "Botín: Prensa de Swaggin, Crisol, Piezas de Arma, Hojas de Latón",
@@ -1535,7 +1583,7 @@
       "ua": "Фортеця Berry (Беррі)"
     },
     "imgSrc": "fort berry.png",
-    "iconName": "poi.svg",
+    "iconName": "poihard.svg",
     "description": {
       "en": "Loot: 100% Gun, Gun Parts, Brass/Aluminun Sheets, Backpack, Bombs",
       "es": "Botín: Arma al 100%, Piezas de Arma, Hojas de Latón/Aluminio, Mochila, Bombas",
@@ -1552,7 +1600,7 @@
       "ua": "Залізна шахта"
     },
     "imgSrc": "iron mine.png",
-    "iconName": "poi.svg",
+    "iconName": "poihard.svg",
     "description": {
       "en": "Loot: Train Book for Rep, Pocket Watch for Rep, Gun Parts, Smokeless #5",
       "es": "Botín: Libro de Tren para Reparación, Reloj de Bolsillo para Reparación, Piezas de Arma, Pólvora Sin Humo #5",
@@ -1637,7 +1685,7 @@
       "ua": "Поселення Тее-Пі"
     },
     "imgSrc": "teepee settlement.png",
-    "iconName": "poi.svg",
+    "iconName": "poimedium.svg",
     "description": {
       "en": "Loot: Barter Items, Bows, Arrows",
       "es": "Botín: Artículos de trueque, Arcos, Flechas",
@@ -1671,7 +1719,7 @@
       "ua": "Поселення Тее-Пі на рівнинах"
     },
     "imgSrc": "plains tee pees.png",
-    "iconName": "poi.svg",
+    "iconName": "poihard.svg",
     "description": {
       "en": "Loot: Barter Items, Bows, Arrows",
       "es": "Botín: Artículos de trueque, Arcos, Flechas",
@@ -1715,7 +1763,6 @@
     "tag": "wagon",
     "position": [63.70312499999997, 26.718750000000014]
   },
-  
   {
     "name": {
       "en": "Lawman I",
@@ -1723,7 +1770,7 @@
       "ua": "Lawman I"
     },
     "imgSrc": "",
-    "iconName": "lawman1.svg",
+    "iconName": "lawman.svg",
     "description": {
       "en": "",
       "es": "",
@@ -1732,5 +1779,125 @@
     "category": "enemy",
     "tag": "lawman1",
     "position": [20.987309793628327,18.380020570756017]
+  },
+  {
+    "name": {
+      "en": "Lawman II",
+      "es": "Lawman II",
+      "ua": "Lawman II"
+    },
+    "imgSrc": "",
+    "iconName": "lawman2.svg",
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    },
+    "category": "enemy",
+    "tag": "lawman2",
+    "position": [20.987309793628327,18.380020570756017]
+  },
+  {
+    "name": {
+      "en": "Lawman III",
+      "es": "Lawman III",
+      "ua": "Lawman III"
+    },
+    "imgSrc": "",
+    "iconName": "lawman3.svg",
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    },
+    "category": "enemy",
+    "tag": "lawman3",
+    "position": [20.987309793628327,18.380020570756017]
+  },
+  {
+    "name": {
+      "en": "Outlaw I",
+      "es": "Outlaw I",
+      "ua": "Outlaw I"
+    },
+    "imgSrc": "",
+    "iconName": "outlaw1.svg",
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    },
+    "category": "enemy",
+    "tag": "outlaw1",
+    "position": [20.987309793628327,18.380020570756017]
+  },
+  {
+    "name": {
+      "en": "Outlaw II",
+      "es": "Outlaw II",
+      "ua": "Outlaw II"
+    },
+    "imgSrc": "",
+    "iconName": "outlaw2.svg",
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    },
+    "category": "enemy",
+    "tag": "outlaw2",
+    "position": [20.987309793628327,18.380020570756017]
+  },
+  {
+    "name": {
+      "en": "Outlaw III",
+      "es": "Outlaw III",
+      "ua": "Outlaw III"
+    },
+    "imgSrc": "",
+    "iconName": "outlaw3.svg",
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    },
+    "category": "enemy",
+    "tag": "outlaw3",
+    "position": [20.987309793628327,18.380020570756017]
+  },
+  {
+    "name": {
+      "en": "Warrior I",
+      "es": "Warrior I",
+      "ua": "Warrior I"
+    },
+    "imgSrc": "",
+    "iconName": "warrior.svg",
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    },
+    "category": "enemy",
+    "tag": "warrior1",
+    "position": [20.987309793628327,18.380020570756017]
+  },
+  {
+    "name": {
+      "en": "Warrior II",
+      "es": "Warrior II",
+      "ua": "Warrior II"
+    },
+    "imgSrc": "",
+    "iconName": "warrior2.svg",
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    },
+    "category": "enemy",
+    "tag": "warrior2",
+    "position": [20.987309793628327,18.380020570756017]
   }
+  
 ]
