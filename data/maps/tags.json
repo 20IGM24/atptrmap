@@ -92,6 +92,16 @@
                     "ua": "Рюкзак"
                 }
             }
+            ,
+            {
+                "id": "pickaxe",
+                "iconName": "pickaxe.svg",
+                "name": {
+                    "en": "pickaxe",
+                    "es": "pickaxe",
+                    "ua": "pickaxe"
+                }
+            }
         ]
     },
     {
@@ -161,11 +171,22 @@
                     "ua": "Сарана"
                 }
             }
+            ,
+            {
+                "id": "duck",
+                "iconName": "duck.svg",
+                "name": {
+                    "en": "duck",
+                    "es": "duck",
+                    "ua": "duck"
+                }
+            }
+
         ]
     },
     {
         "id": "poi",
-        "iconName": "poi.svg",
+        "iconName": "poiheader.svg",
         "name": {
             "en": "Point of Interest",
             "es": "Punto de interés",
@@ -174,12 +195,39 @@
         "color": "#FFA500",
         "children": [
             {
-                "id": "camp",
-                "iconName": "location.svg",
+                "id": "Easy",
+                "iconName": "poieasy.svg",
                 "name": {
-                    "en": "Camp",
-                    "es": "Campamento",
-                    "ua": "База"
+                    "en": "Easy",
+                    "es": "Easy",
+                    "ua": "Easy"
+                }
+            },
+            {
+                "id": "Medium",
+                "iconName": "poimedium.svg",
+                "name": {
+                    "en": "Medium",
+                    "es": "Medium",
+                    "ua": "Medium"
+                }
+            },
+            {
+                "id": "Hard",
+                "iconName": "poihard.svg",
+                "name": {
+                    "en": "Hard",
+                    "es": "Hard",
+                    "ua": "Hard"
+                }
+            },
+            {
+                "id": "camp",
+                "iconName": "poi.svg",
+                "name": {
+                    "en": "Location",
+                    "es": "Location",
+                    "ua": "Location"
                 }
             },
             {
@@ -217,9 +265,9 @@
                     "id": "widows",
                     "iconName": "widows.svg",
                     "name": {
-                        "en": "Boss",
-                        "es": "Jefe",
-                        "ua": "Босс"
+                        "en": "Widows",
+                        "es": "widows",
+                        "ua": "widows"
                     }
                 },
             
@@ -230,15 +278,6 @@
                         "en": "Rattan",
                         "es": "Ratán",
                         "ua": "Ротанг"
-                    }
-                },
-                {
-                    "id": "lawman1",
-                    "iconName": "lawman1.svg",
-                    "name": {
-                        "en": "Lawman I",
-                        "es": "Lawman I",
-                        "ua": "Lawman I"
                     }
                 }
                 
