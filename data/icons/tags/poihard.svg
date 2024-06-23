@@ -5,7 +5,7 @@
    width="32.2"
    version="1.1"
    id="svg5"
-   sodipodi:docname="poi.svg"
+   sodipodi:docname="poihard.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="17.868132"
-     inkscape:cx="16.090098"
-     inkscape:cy="22.75"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:cx="16.118081"
+     inkscape:cy="22.722017"
+     inkscape:window-width="1350"
+     inkscape:window-height="1212"
+     inkscape:window-x="2156"
+     inkscape:window-y="195"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg5" />
   <path
      d="m338.25 172.94c0 19.96-3.55 39.09-10.04 56.8-20.63 56.33-127.49 215.19-150.83 249.59-2.2 3.24-6.95 3.33-9.26.16-27.06-37.13-160.62-224.53-160.62-306.61 0-92.46 75.87-167.2 168.75-165.35 89.71 1.79 162.04 75.67 162 165.41z"
@@ -38,18 +38,20 @@
      stroke-miterlimit="10"
      stroke-width="15"
      id="path1"
-     style="fill:#ed6905;fill-opacity:1" />
+     style="fill:#ff831a;fill-opacity:1" />
   <path
      d="m66.5 95.63h26.7v175.27h-26.7z"
      fill="#fff"
      stroke="#1d1d1b"
      stroke-miterlimit="10"
      stroke-width="10"
-     id="path2" />
+     id="path2"
+     style="fill:#d20404;fill-opacity:1" />
   <path
      d="m283.44 218.44c-59.9 32.3-119.8-32.3-179.71 0v-124.22c59.9-32.3 119.8 32.3 179.71 0z"
      fill="#fff"
-     id="path3" />
+     id="path3"
+     style="fill:#d40404;fill-opacity:1" />
   <g
      stroke="#1d1d1b"
      stroke-miterlimit="10"

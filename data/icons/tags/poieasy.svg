@@ -23,7 +23,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="17.868132"
-     inkscape:cx="16.062116"
+     inkscape:cx="16.090098"
      inkscape:cy="22.75"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -38,18 +38,20 @@
      stroke-miterlimit="10"
      stroke-width="15"
      id="path1"
-     style="fill:#1d9222;fill-opacity:1" />
+     style="fill:#fe7d1a;fill-opacity:1" />
   <path
      d="m66.5 95.63h26.7v175.27h-26.7z"
      fill="#fff"
      stroke="#1d1d1b"
      stroke-miterlimit="10"
      stroke-width="10"
-     id="path2" />
+     id="path2"
+     style="fill:#038c2a;fill-opacity:1" />
   <path
      d="m283.44 218.44c-59.9 32.3-119.8-32.3-179.71 0v-124.22c59.9-32.3 119.8 32.3 179.71 0z"
      fill="#fff"
-     id="path3" />
+     id="path3"
+     style="fill:#038b2a;fill-opacity:1" />
   <g
      stroke="#1d1d1b"
      stroke-miterlimit="10"
