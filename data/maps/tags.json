@@ -9,61 +9,7 @@
         },
         "color": "#006400",
         "children": [
-            {
-                "id": "Chest",
-                "iconName": "chest.svg",
-                "name": {
-                    "en": "Chest",
-                    "es": "Cofre",
-                    "ua": "Схованка"
-                }
-            },
-            {
-                "id": "helmet",
-                "iconName": "helmet.svg",
-                "name": {
-                    "en": "Diving Helmet",
-                    "es": "Casco de buceo",
-                    "ua": "Каска для погруження"
-                }
-            },
-            {
-                "id": "Cash Register",
-                "iconName": "Cash Register.svg",
-                "name": {
-                    "en": "Cash Register",
-                    "es": "Caja registradora",
-                    "ua": "Касовий реєстратор"
-                }
-            },
-            
-            {
-                "id": "bob ross",
-                "iconName": "bob.svg",
-                "name": {
-                    "en": "Bob Ross",
-                    "es": "Bob Ross",
-                    "ua": "Bob Ross (Боб Росс)"
-                }
-            },
-            {
-                "id": "carriage",
-                "iconName": "carriage.svg",
-                "name": {
-                    "en": "Carriage",
-                    "es": "carruaje",
-                    "ua": "вагон"
-                }
-            },
-            {
-                "id": "grave",
-                "iconName": "grave.svg",
-                "name": {
-                    "en": "Grave Site",
-                    "es": "lugar de sepultura",
-                    "ua": "могила"
-                }
-            },
+           
             {
                 "id": "loot bag",
                 "iconName": "loot bag.svg",
@@ -72,14 +18,15 @@
                     "es": "Bolsa de botín",
                     "ua": "Торбала з лат"
                 }
+            
             },
             {
                 "id": "Event Chest",
                 "iconName": "event chest.svg",
                 "name": {
-                    "en": "Event Chest",
-                    "es": "Cofre de Evento",
-                    "ua": "Сховище події"
+                    "en": "Dig Site",
+                    "es": "Dig Site",
+                    "ua": "Dig Site"
 
                 }
             },
@@ -238,7 +185,72 @@
                     "es": "Carro",
                     "ua": "Вагон"
                 }
+            },
+            {
+                "id": "helmet",
+                "iconName": "helmet.svg",
+                "name": {
+                    "en": "Diving Helmet",
+                    "es": "Casco de buceo",
+                    "ua": "Каска для погруження"
+                }
+            },
+            {
+                "id": "Cash Register",
+                "iconName": "Cash Register.svg",
+                "name": {
+                    "en": "Cash Register",
+                    "es": "Caja registradora",
+                    "ua": "Касовий реєстратор"
+                }
+            },
+            
+            {
+                "id": "bob ross",
+                "iconName": "bob.svg",
+                "name": {
+                    "en": "Bob Ross",
+                    "es": "Bob Ross",
+                    "ua": "Bob Ross (Боб Росс)"
+                }
+            },
+            {
+                "id": "carriage",
+                "iconName": "carriage.svg",
+                "name": {
+                    "en": "Carriage",
+                    "es": "carruaje",
+                    "ua": "вагон"
+                }
+            },
+            {
+                "id": "grave",
+                "iconName": "grave.svg",
+                "name": {
+                    "en": "Grave Site",
+                    "es": "lugar de sepultura",
+                    "ua": "могила"
+                }
+            },
+            {
+                "id": "loot bag",
+                "iconName": "loot bag.svg",
+                "name": {
+                    "en": "Loot Bag",
+                    "es": "Bolsa de botín",
+                    "ua": "Торбала з лат"
+                }
+            },
+            {
+                "id": "backpack",
+                "iconName": "backpack.svg",
+                "name": {
+                    "en": "Backpack",
+                    "es": "Mochila",
+                    "ua": "Рюкзак"
+                }
             }
+          
         ]
     },
     {
@@ -281,6 +293,29 @@
                     }
                 }
                 
+            
+            
+        ]
+    },
+    {
+        "id": "crossing",
+        "iconName": "enemy.svg",
+        "name": {
+            "en": "Water Crossings",
+            "es": "Water Crossings",
+            "ua": "Water Crossings"
+        },
+        "color": "#d43c3c",
+        "children": [
+            {
+                "id": "water",
+                "iconName": "water1.svg",
+                "name": {
+                    "en": "water",
+                    "es": "water",
+                    "ua": "water"
+                }
+            }
             
             
         ]
