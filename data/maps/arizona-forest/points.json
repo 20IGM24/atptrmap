@@ -793,6 +793,19 @@
 
   {
     "name": {
+      "en": "Dig Site - Illay/Clunky",
+      "es": "Excavación - Cuerda",
+      "ua": "Місце розкопок - Мотузка"
+    },
+    "imgSrc": "clunkychest.png",
+    "iconName": "event chest.svg",
+    "category": "loot",
+    "tag": "Event Chest",
+    "position": [2.937088678686271,29.08178479956556]
+  },
+
+  {
+    "name": {
       "en": "Dig Site - Deadshot",
       "es": "Excavación - Cuerda",
       "ua": "Місце розкопок - Мотузка"
@@ -983,6 +996,25 @@
     "tag": "grave",
     "position": [33.961798239877034,-44.8744818823224]
   },
+  
+  {
+    "name": {
+      "en": "Abandoned Mine AKA CLUNKY",
+      "es": "Vagón de ciénaga",
+      "ua": "Вагон болота"
+    },
+    "imgSrc": "clunky.png",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: None </br>Cost: Free</br>Enemy: Illay Patrol Path",
+      "es": "Botín: Kits de montaje, Máquinas, Municiones, Herramientas",
+      "ua": "Здобич: Набори для збирання, Машини, Набої, Інструменти"
+    },
+    "category": "extraction",
+    "tag": "free",
+    "position": [4.245161889130216,29.46328486672725]
+  }
+  ,
   {
     "name": {
       "en": "Tunnel",
@@ -1604,6 +1636,23 @@
   },
   {
     "name": {
+      "en": "Outlaws Camp - Plains",
+      "es": "Escondite de leñadores",
+      "ua": "Сховок Лумберджакс"
+    },
+    "imgSrc": "outlawscamp.png",
+    "iconName": "poieasy.svg",
+    "description": {
+      "en": "Gun parts, food, random boss spawn",
+      "es": "Botín: Hachas, Madera, Artículos de trueque",
+      "ua": "Здобич: Тесли, Дерево, Торгівельні предмети"
+    },
+    "category": "poi",
+    "tag": "Easy",
+    "position": [39.234375,-55.79482199055862]
+  },
+  {
+    "name": {
       "en": "Fishing Log Cabin",
       "es": "Cabaña de Pesca",
       "ua": "Логова хатка для риболовлі"
@@ -1735,7 +1784,7 @@
       "es": "Botín: Arma, Artículos de trueque",
       "ua": "Здобич: Зброя, Торгівельні предмети"
     },
-    "category": "loot",
+    "category": "poi",
     "tag": "bob ross",
     "position": [38.24999999999997, 2.953125000000014]
   },
@@ -1840,7 +1889,44 @@
     "category": "poi",
     "tag": "wagon",
     "position": [63.70312499999997, 26.718750000000014]
-  },
+  }
+  ,
+  {
+    "name": {
+      "en": "House NE of Deadshots",
+      "es": "Vagón de ciénaga",
+      "ua": "Вагон болота"
+    },
+    "imgSrc": "cabineastofdeadshots.png",
+    "iconName": "poi.svg",
+    "description": {
+      "en": "Loot: Random Gun Spawn",
+      "es": "Botín: Kits de montaje, Máquinas, Municiones, Herramientas",
+      "ua": "Здобич: Набори для збирання, Машини, Набої, Інструменти"
+    },
+    "category": "poi",
+    "tag": "camp",
+    "position": [-25.97756428211317,44.36340977619677]
+  }
+  ,
+  {
+    "name": {
+      "en": "Cabin SW of Small Outcrop",
+      "es": "Vagón de ciénaga",
+      "ua": "Вагон болота"
+    },
+    "imgSrc": "cabinswsmall.png",
+    "iconName": "poi.svg",
+    "description": {
+      "en": "Loot: Assembly Kits, Machines, Ammo, Tools",
+      "es": "Botín: Kits de montaje, Máquinas, Municiones, Herramientas",
+      "ua": "Здобич: Набори для збирання, Машини, Набої, Інструменти"
+    },
+    "category": "poi",
+    "tag": "camp",
+    "position": [4.5,-30.900280291109368]
+  }
+  ,
   {
     "name": {
       "en": "Lawman I",
@@ -1995,5 +2081,24 @@
     "tag": "pickaxe",
     "position": []
   }
+  ,
+  {
+    "name": {
+      "en": "Water Crossing 1",
+      "es": "Water Crossing 1",
+      "ua": "Water Crossing 1"
+    },
+    "imgSrc": "",
+    "iconName": "water1.svg",
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    },
+    "category": "crossing",
+    "tag": "water",
+    "position": []
+  }
+
   
 ]
