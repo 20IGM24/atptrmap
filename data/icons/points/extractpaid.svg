@@ -22,8 +22,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="8.934066"
-     inkscape:cx="12.816113"
-     inkscape:cy="53.223247"
+     inkscape:cx="12.760148"
+     inkscape:cy="53.335178"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="1912"
@@ -36,7 +36,8 @@
        fill="#3e92d0"
        stroke="#000"
        stroke-width="15"
-       id="path1" /><g
+       id="path1"
+       style="fill:#3e92d0;fill-opacity:0.50155765" /><g
        stroke="#1d1d1b"
        stroke-width="10"
        id="g8"

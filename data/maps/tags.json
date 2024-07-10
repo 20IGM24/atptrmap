@@ -41,7 +41,7 @@
             }
             ,
             {
-                "id": "pickaxe",
+                "id": "pickaxe1",
                 "iconName": "pickaxe.svg",
                 "name": {
                     "en": "pickaxe",
@@ -267,6 +267,15 @@
                 "id": "enemy_spawn",
                 "iconName": "enemy_spawn.svg",
                 "name": {
+                    "en": "POI Mini Boss",
+                    "es": "POI Mini Jefe",
+                    "ua": "POI Mini Босс"
+                }
+            },
+            {
+                "id": "boss",
+                "iconName": "boss.svg",
+                "name": {
                     "en": "POI Boss",
                     "es": "POI Jefe",
                     "ua": "POI Босс"
@@ -292,6 +301,17 @@
                         "ua": "Ротанг"
                     }
                 }
+                ,
+            
+                {
+                    "id": "indian",
+                    "iconName": "indians.svg",
+                    "name": {
+                        "en": "Indian Chiefs",
+                        "es": "Indian Chiefs",
+                        "ua": "Indian Chiefs"
+                    }
+                }
                 
             
             
@@ -308,7 +328,7 @@
         "color": "#d43c3c",
         "children": [
             {
-                "id": "water",
+                "id": "water1",
                 "iconName": "water1.svg",
                 "name": {
                     "en": "water",
