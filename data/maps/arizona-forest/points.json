@@ -428,14 +428,14 @@
       "ua": "Dead Shot (Мертвий постріл)"
     },
     "imgSrc": "deadshot2.png",
-    "iconName": "enemy_spawn.svg",
+    "iconName": "boss.svg",
     "description": {
       "en": "Can be found in one of three bushes</br>Loot: Powder Measure Tool, Gun parts, Money",
       "es": "Se puede encontrar en uno de los tres arbustos</br>Botín: Herramienta de medida de polvo, Piezas de arma, Dinero",
       "ua": "Можна знайти в одному з трьох кущів</br>Здобич: Інструмент для вимірювання пороху, Деталі зброї, Гроші"
     },
     "category": "enemy",
-    "tag": "enemy_spawn",
+    "tag": "boss",
     "position": [-39.39530024422814,36.98032159524531]
   },
   {
@@ -445,14 +445,14 @@
       "ua": "Marcus Digger (Маркус Діггер)"
     },
     "imgSrc": "digger2.png",
-    "iconName": "enemy_spawn.svg",
+    "iconName": "boss.svg",
     "description": {
       "en": "Can be found in the rafters in the back of the mine</br>Key Needed: Drawer Key",
       "es": "Se puede encontrar en los altillos al fondo de la mina</br>Llave necesaria: Llave del cajón",
       "ua": "Можна знайти на стропилах у задній частині шахти</br>Ключ потрібно: Ключ до ящика"
     },
     "category": "enemy",
-    "tag": "enemy_spawn",
+    "tag": "boss",
     "position": [-10.493154813383793, 59.76755004089223]
   },
   {
@@ -775,7 +775,7 @@
       "ua": "Здобич: Луки, Стріли"
     },
     "category": "enemy",
-    "tag": "enemy_spawn",
+    "tag": "indian",
     "position": [-50.62500000000003, -27.281249999999986]
   },
   {
@@ -1030,7 +1030,7 @@
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [-7.373461947146275,62.44873726070415]
+    "position": [-9.040734572266448,63.069283555169804]
   },
   {
     "name": {
@@ -1566,6 +1566,19 @@
     "tag": "camp",
     "position": [46.96874999999997, -24.890624999999986]
   },
+  
+  {
+    "name": {
+      "en": "Dock West of Burnt Forest",
+      "es": "Cabaña del Este",
+      "ua": "Східна хата"
+    },
+    "imgSrc": "dockwestofburnt.png",
+    "iconName": "poi.svg",
+    "category": "poi",
+    "tag": "poi",
+    "position": [29.579076728261015,-14.43516920348435]
+  },
   {
     "name": {
       "en": "Caravan Camp",
@@ -1906,7 +1919,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-25.97756428211317,44.36340977619677]
+    "position": [-22.87984875950918,43.18033806188859]
   }
   ,
   {
