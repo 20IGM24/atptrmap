@@ -12,7 +12,7 @@
       "es": "Botín: dinero",
       "ua": "Здобич: гроші"
     },
-    "category": "loot",
+    "category": "poi",
     "tag": "Cash Register",
     "position": [-5.519284713143776,9.508982488798296]
   },
@@ -41,7 +41,7 @@
     },
     "imgSrc": "diving helmet.png",
     "iconName": "helmet.svg",
-    "category": "loot",
+    "category": "poi",
     "tag": "helmet",
     "position": [13.078124999999972, -20.812499999999986]
   },
@@ -790,7 +790,18 @@
     "tag": "Event Chest",
     "position": [-51.998776294543084,-43.484863264032896]
   },
-
+  {
+    "name": {
+      "en": "Dig Site - High Forest",
+      "es": "Excavación - Cuerda",
+      "ua": "Місце розкопок - Мотузка"
+    },
+    "imgSrc": "chesthighforest.png",
+    "iconName": "event chest.svg",
+    "category": "loot",
+    "tag": "Event Chest",
+    "position": [-46.319305225850655,-31.224261279025665]
+  },
   {
     "name": {
       "en": "Dig Site - Illay/Clunky",
@@ -980,7 +991,7 @@
     },
     "imgSrc": "carriage.png",
     "iconName": "carriage.svg",
-    "category": "loot",
+    "category": "poi",
     "tag": "carriage",
     "position": [7.453124999999972,-50.624999999999986]
   },
@@ -992,7 +1003,7 @@
     },
     "imgSrc": "grave.png",
     "iconName": "grave.svg",
-    "category": "loot",
+    "category": "poi",
     "tag": "grave",
     "position": [33.961798239877034,-44.8744818823224]
   },
