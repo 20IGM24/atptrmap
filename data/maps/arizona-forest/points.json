@@ -792,6 +792,18 @@
   },
   {
     "name": {
+      "en": "Dig Site - Burned Forest",
+      "es": "Excavación - Cuerda",
+      "ua": "Місце розкопок - Мотузка"
+    },
+    "imgSrc": "digsiteburned.png",
+    "iconName": "event chest.svg",
+    "category": "loot",
+    "tag": "Event Chest",
+    "position": [39.90082122980118,-2.7131614895261507]
+  },
+  {
+    "name": {
       "en": "Dig Site - High Forest",
       "es": "Excavación - Cuerda",
       "ua": "Місце розкопок - Мотузка"
