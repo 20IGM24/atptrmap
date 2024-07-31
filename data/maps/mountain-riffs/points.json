@@ -1,0 +1,21 @@
+[
+  {
+    "name": {
+      "en": "Cash Register",
+      "es": "Caja registradora",
+      "ua": "Касовий апарат"
+    },
+    "imgSrc": "cash register.png",
+    "iconName": "cash register.svg",
+    "description": {
+      "en": "Loot: money",
+      "es": "Botín: dinero",
+      "ua": "Здобич: гроші"
+    },
+    "category": "poi",
+    "tag": "Cash Register",
+    "position": [-5.519284713143776,9.508982488798296]
+  }
+
+  
+]

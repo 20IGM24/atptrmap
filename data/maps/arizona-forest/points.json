@@ -2135,6 +2135,130 @@
     "tag": "water",
     "position": []
   }
+,
 
+{
+  "name": {
+    "en": "Dickson Shed Key",
+    "es": "Dickson Shed Key",
+    "ua": "Dickson Shed Key"
+  },
+  "imgSrc": "",
+  "iconName": "key.svg",
   
+  "description": {
+    "en": "The key is in the sack next to the wagon",
+    "es": "",
+    "ua": ""
+  },
+  "category": "loot",
+  "tag": "key",
+  "position": [-22.945338014320484,9.343348585267861]
+}
+,
+
+{
+  "name": {
+    "en": "Berry Key",
+    "es": "Berry Key.",
+    "ua": "Berry Key"
+  },
+  "imgSrc": "",
+  "iconName": "key.svg",
+  "category": "loot",
+  "tag": "key",
+  "position": [33.97940078874621,14.691361533021091]
+}
+
+,
+
+{
+  "name": {
+    "en": "Medic/Iron Mine Drawer Key",
+    "es": "Medic/Iron Mine Drawer Key.",
+    "ua": "Medic/Iron Mine Drawer Key"
+  },
+  "imgSrc": "",
+  "iconName": "key.svg",
+  "category": "loot",
+  "tag": "key",
+  "position": [26.73956124009161,13.834744628653029]
+}
+,
+
+{
+  "name": {
+    "en": "Anny's Key East Patrol",
+    "es": "Anny's Key",
+    "ua": "Anny's Key"
+  },
+  "imgSrc": "",
+  "iconName": "key.svg",
+  
+  "description": {
+    "en": "This Patrol will drop one of the three keys Johnson's, Miller's, or Smith's",
+    "es": "",
+    "ua": ""
+  },
+  "category": "loot",
+  "tag": "key",
+  "position": [59.01982878172828,39.88233369846933]
+}
+,
+
+{
+  "name": {
+    "en": "Anny's Key West Patrol",
+    "es": "Anny's Key",
+    "ua": "Anny's Key"
+  },
+  "imgSrc": "",
+  "iconName": "key.svg",
+  "description": {
+    "en": "This Patrol will drop one of the three keys Johnson's, Miller's, or Smith's",
+    "es": "",
+    "ua": ""
+  },
+  "category": "loot",
+  "tag": "key",
+  "position": [15.931223519669302,54.431833445143795]
+} 
+,
+
+{
+  "name": {
+    "en": "Illay's Key Patrol",
+    "es": "Illay's Key Patrol",
+    "ua": "Illay's Key Patrol"
+  },
+  "imgSrc": "",
+  "iconName": "key.svg",
+  
+  "category": "loot",
+  "tag": "key",
+  "position": [8.619463569419757,29.455384344484692]
+}
+
+,
+
+{
+  "name": {
+    "en": "Iron Mine Store Room Key",
+    "es": "Iron Mine Store Room Key",
+    "ua": "Iron Mine Store Room Key"
+  },
+  "imgSrc": "",
+  "iconName": "key.svg",
+  
+  "description": {
+    "en": "Use the Iron mine drawer key on the table upstairs by the beds",
+    "es": "",
+    "ua": ""
+  },
+  "category": "loot",
+  "tag": "key",
+  "position": [-5.571758455397628,61.62704341461956]
+}
+
+
 ]

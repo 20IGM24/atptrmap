@@ -2,17 +2,95 @@
   {
     "id": "arizona-forest",
     "name": {
-      "en": "Arizona Forest",
-      "es": "Bosque Arizona",
-      "ua": "Ліс Арізони"
+      "en": "A Hot Summer Here Buckaroo!",
+      "es": "",
+      "ua": ""
     },
     "alias": {
-      "en": "Arizona",
-      "es": "Arizona",
-      "ua": "Ліс Арізони"
+      "en": "Enter",
+      "es": "Enter",
+      "ua": "Enter"
     },
     "cardImgSrc": "cardImg.png",
     "mapImgSrc": "mapImg.svg",
+    "resolution": [6826.66675, 6826.66675],
+    "padding": "1900px 1900px 1900px 2020px",
+    "zoom": 1,
+    "minZoom": 1,
+    "maxZoom": 7,
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    }
+  }
+  ,
+  {
+    "id": "tennessee-hills",
+    "name": {
+      "en": "Close Quarter Combat!",
+      "es": "",
+      "ua": ""
+    },
+    "alias": {
+      "en": "Enter",
+      "es": "Enter",
+      "ua": "Enter"
+    },
+    "cardImgSrc": "thimage.png",
+    "mapImgSrc": "",
+    "resolution": [6826.66675, 6826.66675],
+    "padding": "1900px 1900px 1900px 2020px",
+    "zoom": 1,
+    "minZoom": 1,
+    "maxZoom": 7,
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    }
+  }
+  ,
+  {
+    "id": "mountain-riffs",
+    "name": {
+      "en": "Embrace the Chill!",
+      "es": "",
+      "ua": ""
+    },
+    "alias": {
+      "en": "Enter",
+      "es": "Enter",
+      "ua": "Enter"
+    },
+    "cardImgSrc": "mrimage.png",
+    "mapImgSrc": "",
+    "resolution": [6826.66675, 6826.66675],
+    "padding": "1900px 1900px 1900px 2020px",
+    "zoom": 1,
+    "minZoom": 1,
+    "maxZoom": 7,
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    }
+  }
+  ,
+  {
+    "id": "quest-tracker",
+    "name": {
+      "en": "Quest/Item Tracker",
+      "es": "",
+      "ua": ""
+    },
+    "alias": {
+      "en": "Enter",
+      "es": "Enter",
+      "ua": "Enter"
+    },
+    "cardImgSrc": "questimage.png",
+    "mapImgSrc": "",
     "resolution": [6826.66675, 6826.66675],
     "padding": "1900px 1900px 1900px 2020px",
     "zoom": 1,

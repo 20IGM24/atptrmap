@@ -40,6 +40,18 @@
                 }
             }
             ,
+
+            
+            {
+                "id": "key",
+                "iconName": "key.svg",
+                "name": {
+                    "en": "key Location",
+                    "es": "key Location",
+                    "ua": "key Location"
+
+                }
+            },
             {
                 "id": "pickaxe1",
                 "iconName": "pickaxe.svg",
@@ -161,6 +173,8 @@
 
                 }
             },
+            
+            
             {
                 "id": "Medium",
                 "iconName": "poimedium.svg",
