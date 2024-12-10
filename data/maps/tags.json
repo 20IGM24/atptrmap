@@ -163,17 +163,7 @@
                 }
             },
             
-            {
-                "id": "Event Chest",
-                "iconName": "event chest.svg",
-                "name": {
-                    "en": "Dig Site",
-                    "es": "Dig Site",
-                    "ua": "Dig Site"
-
-                }
-            },
-            
+           
             
             {
                 "id": "Medium",

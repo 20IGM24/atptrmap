@@ -21,6 +21,18 @@
         </div>
       </div>
     </div>
+    <div id="qtag-selector-div">
+      <button id="qtag-selector-btn" class="qtag-selector-btn btn rounded hud-btn">
+        <img class="logo" src="../data/icons/qtags.svg" width="20" height="20" alt="tags icon"/>
+      </button>
+      <div id="qtag-selector" class="qtag-selector rounded" style="display: none;">
+        <div id="qtag-selector-content" class="row p-3">
+          <!-- Quest tracker content will be injected here -->
+        </div>
+        <!-- Add reset button here -->
+        <button id="reset-button" class="btn rounded">Reset</button>
+      </div>
+    </div>
     <div id="lang-div" class="dropdown lang-div rounded">
       <div class="btn-group dropdown-center dropend">
         <button class="btn lang-btn rounded" type="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -60,6 +72,7 @@
   <script type="module" src="../js/main.js"></script>
   <script type="module" src="../js/lang.js"></script>
   <script type="module" src="../js/maps/arizona-forest.js"></script>
+  <script type="module" src="../js/questTracker.js"></script>
 </body>
 
 </html>

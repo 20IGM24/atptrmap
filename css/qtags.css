@@ -1,0 +1,59 @@
+/* qtags.css */
+.qtag-selector {
+  position: absolute;
+  background: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.quest-item {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.quest-item.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.quest-item .quest-name {
+  flex: 1;
+}
+
+.quest-item .quest-children {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.quest-item .quest-child {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.quest-item .quest-child.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+#reset-button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+#reset-button:hover {
+  background-color: #d32f2f;
+}

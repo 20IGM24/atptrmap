@@ -1,0 +1,83 @@
+import $ from "jquery";
+import "../css/qtags.css";
+import qtags from "../data/maps/qtags.json";
+
+class QuestTracker {
+  constructor(containerId, data) {
+    this.container = $(`#${containerId}`);
+    this.quests = data;
+    this.render();
+  }
+
+  toggleCompletion(index) {
+    if (this.quests[index]) {
+      this.quests[index].completed = !this.quests[index].completed;
+      this.render();
+    }
+  }
+
+  removeQuest(index) {
+    if (this.quests[index]) {
+      this.quests.splice(index, 1);
+      this.render();
+    }
+  }
+
+  reset() {
+    this.quests = qtags.map(quest => ({ ...quest, completed: false }));
+    this.render();
+  }
+
+  render() {
+    this.container.empty(); // Clear existing content
+    this.quests.forEach((quest, index) => {
+      const questDiv = $(`
+        <div class="quest-item">
+          <input type="checkbox" ${quest.completed ? 'checked' : ''} onclick="questTracker.toggleCompletion(${index})">
+          <span class="${quest.completed ? 'completed' : ''}">${quest.name}</span>
+          <button onclick="questTracker.removeQuest(${index})">Remove</button>
+        </div>
+      `);
+      this.container.append(questDiv);
+    });
+  }
+}
+
+$(function () {
+  const questTracker = new QuestTracker('qtag-selector-content', qtags);
+
+  $("#qtag-selector-btn").on("click", function () {
+    $("#qtag-selector").toggle();
+  });
+
+  $(".qtag-btn").on("click", function () {
+    const children = $(this).parent().parent().find(".tag-child-btn");
+    if ($(this).hasClass("selected")) {
+        $(this).removeClass("selected").addClass("unselected");
+        children.removeClass("selected").addClass("unselected");
+    } else if ($(this).hasClass("unselected")) {
+        $(this).removeClass("unselected").addClass("selected");
+        children.removeClass("unselected").addClass("selected");
+    }
+  });
+
+  $(".qtag-child-btn").on("click", function () {
+    const siblings = $(this).parent().parent().find(".tag-child-btn");
+    const parent = $(this).parent().parent().parent().find(".qtag-btn");
+    if ($(this).hasClass("selected")) {
+        $(this).removeClass("selected").addClass("unselected");
+        if (siblings.filter(".selected").length == 0) {
+            parent.removeClass("selected").addClass("unselected");
+        }
+    } else if ($(this).hasClass("unselected")) {
+        $(this).removeClass("unselected").addClass("selected");
+        if (siblings.filter(".selected").length > 0) {
+            parent.removeClass("unselected").addClass("selected");
+        }
+    }
+  });
+
+  $("#reset-button").on("click", () => {
+    questTracker.reset();
+  });
+});

@@ -38,7 +38,7 @@
       "ua": "Enter"
     },
     "cardImgSrc": "thimage.png",
-    "mapImgSrc": "",
+    "mapImgSrc": "mapImg2.svg",
     "resolution": [6826.66675, 6826.66675],
     "padding": "1900px 1900px 1900px 2020px",
     "zoom": 1,
@@ -64,32 +64,6 @@
       "ua": "Enter"
     },
     "cardImgSrc": "mrimage.png",
-    "mapImgSrc": "",
-    "resolution": [6826.66675, 6826.66675],
-    "padding": "1900px 1900px 1900px 2020px",
-    "zoom": 1,
-    "minZoom": 1,
-    "maxZoom": 7,
-    "description": {
-      "en": "",
-      "es": "",
-      "ua": ""
-    }
-  }
-  ,
-  {
-    "id": "quest-tracker",
-    "name": {
-      "en": "Quest/Item Tracker",
-      "es": "",
-      "ua": ""
-    },
-    "alias": {
-      "en": "Enter",
-      "es": "Enter",
-      "ua": "Enter"
-    },
-    "cardImgSrc": "questimage.png",
     "mapImgSrc": "",
     "resolution": [6826.66675, 6826.66675],
     "padding": "1900px 1900px 1900px 2020px",

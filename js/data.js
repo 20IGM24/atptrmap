@@ -1,8 +1,10 @@
-// Styles
+// Import existing styles and data
 import "../css/tags.css";
+import "../css/qtags.css";
 
 import tags from "../data/maps/tags.json";
 import maps from "../data/maps/maps.json";
+import qtags from "../data/maps/qtags.json";
 
 function getLangFromLocalStorage() {
   if (!localStorage.hasOwnProperty("lang")) return "en";
@@ -19,6 +21,7 @@ class MapData {
     this.lang = getLangFromLocalStorage();
     this.loadTags();
   }
+
   getFeaturesByLang(features) {
     features.forEach((feature) => {
       feature["name"] = feature["name"][this.lang];
@@ -28,18 +31,23 @@ class MapData {
     });
     return features;
   }
+
   getAttributionsByLang() {
     return this.attributions[this.lang];
   }
+
   getRootPath() {
     return this.rootPath;
   }
+
   getPoints() {
     return this.getFeaturesByLang(this.mapPoints);
   }
+
   getLabels() {
     return this.getFeaturesByLang(this.mapLabels);
   }
+
   getMapTags() {
     const tags = [];
     this.mapPoints.forEach((point) => {
@@ -47,6 +55,7 @@ class MapData {
     });
     return tags;
   }
+
   getTags() {
     const mapTags = this.getMapTags();
     this.tags.forEach((tag) => {
@@ -58,11 +67,13 @@ class MapData {
       return tag["children"].length > 0;
     });
   }
+
   loadTags() {
     this.getTags();
     const tagSelector = document.getElementById("tag-selector-content");
     tagSelector.innerHTML = this.generateTagSelector();
   }
+
   generateTagSelector() {
     let selector = "";
     this.tags.forEach((tag) => {
@@ -75,6 +86,7 @@ class MapData {
     });
     return selector;
   }
+
   generateTagCard(tag, childrenTags) {
     let card = `<div style="border: 1px solid ${tag['color']}" class="mb-3 p-0 rounded">
     <div class="container-fluid p-0"><button type="button" class="btn selected btn-sm w-100 text-center tag-btn" style="border: 1px solid ${tag['color']}" value="${
@@ -100,6 +112,7 @@ class AttributionsData {
     this.lang = getLangFromLocalStorage();
     this.loadAttributions();
   }
+
   loadAttributions() {
     const attributionsInfo = document.getElementById("attributions-info");
     fetch(`${import.meta.env.BASE_URL}/attributions/${this.lang}.html`)
@@ -115,6 +128,7 @@ class MenuData {
     this.lang = getLangFromLocalStorage();
     this.loadMenu();
   }
+
   loadMenu() {
     const menuContainer = document.getElementById("menu-div");
     let html = "";
@@ -148,4 +162,5 @@ class MenuData {
   }
 }
 
-export { MapData, AttributionsData, MenuData };
+
+export { MapData, AttributionsData, MenuData  };

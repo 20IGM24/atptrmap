@@ -1,19 +1,226 @@
 [
   {
     "name": {
-      "en": "Cash Register",
-      "es": "Caja registradora",
-      "ua": "Касовий апарат"
+      "en": "Prison Wagon",
+      "es": "Prison Wagon",
+      "ua": "Prison Wagon"
     },
-    "imgSrc": "cash register.png",
-    "iconName": "cash register.svg",
+    "imgSrc": "extract_prison_wagon.png",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 20 Seconds Cost: Free",
+      "es": "Timer: 20 Seconds Cost: Free",
+      "ua": "Timer: 20 Seconds Cost: Free"
+    },
+    "category": "extraction",
+    "tag": "free",
+    "position": [-38.8357054525536,-24.963150727769317]
+  } 
+  ,
+  {
+    "name": {
+      "en": "Abandoned Horse",
+      "es": "Prison Wagon",
+      "ua": "Prison Wagon"
+    },
+    "imgSrc": "extract_abandoned_ horse.png",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 20 Seconds Cost: Free",
+      "es": "Timer: 20 Seconds Cost: Free",
+      "ua": "Timer: 20 Seconds Cost: Free"
+    },
+    "category": "extraction",
+    "tag": "free",
+    "position": [-20.203207983679704,32.84806586125393]
+  } 
+  ,
+  {
+    "name": {
+      "en": "Boat",
+      "es": "Boat",
+      "ua": "Boat"
+    },
+    "imgSrc": "extract_boat.png",
+    "iconName": "extract.svg",
     "description": {
       "en": "Loot: money",
       "es": "Botín: dinero",
       "ua": "Здобич: гроші"
     },
-    "category": "poi",
-    "tag": "Cash Register",
-    "position": [-5.519284713143776,9.508982488798296]
+    "category": "extraction",
+    "tag": "free",
+    "position": [-28.639547791912833,-41.49007306404097]
   }
+  , 
+  {
+    "name": {
+      "en": "Hiram Caldwell",
+      "es": "Hiram Caldwell",
+      "ua": "Hiram Caldwell"
+    },
+    "imgSrc": "Hiram_Caldwell.png",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 20 Seconds Cost: Free",
+      "es": "Timer: 20 Seconds Cost: Free",
+      "ua": "Timer: 20 Seconds Cost: Free"
+    },
+    "category": "extraction",
+    "tag": "free",
+    "position": [5.985465581362021,21.88795563508866]
+  } 
+  ,
+  {
+    "name": {
+      "en": "Railway Tunnel (West)",
+      "es": "Railway Tunnel (West)",
+      "ua": "Railway Tunnel (West)"
+    },
+    "imgSrc": "extract_west_tunnel.png",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 20 Seconds Cost: Free",
+      "es": "Timer: 20 Seconds Cost: Free",
+      "ua": "Timer: 20 Seconds Cost: Free"
+    },
+    "category": "extraction",
+    "tag": "free",
+    "position": [-67.71181058927804,9.815950168587776]
+  } 
+  ,
+  
+  {
+    "name": {
+      "en": "Railway Tunnel (East)",
+      "es": "Railway Tunnel (East)",
+      "ua": "Railway Tunnel (East)"
+    },
+    "imgSrc": "extract_east_tunnel.png",
+    "iconName": "extract.svg",
+    "description": {
+      "en": "Timer: 20 Seconds Cost: Free",
+      "es": "Timer: 20 Seconds Cost: Free",
+      "ua": "Timer: 20 Seconds Cost: Free"
+    },
+    "category": "extraction",
+    "tag": "free",
+    "position": [54.2698879000572,31.10080191215512]
+  } 
+  ,
+  {
+    "name": {
+      "en": "Andrew Haskel",
+      "es": "Andrew Haskel",
+      "ua": "Andrew Haskel"
+    },
+    "imgSrc": "boss.png",
+    "iconName": "widows.svg",
+    "description": {
+      "en": "Loot: Gun Parts, Special Hats",
+      "es": "Botín: Piezas de armas, Sombreros especiales",
+      "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
+    },
+    "category": "enemy",
+    "tag": "boss",
+    "position": [24.380064954622696,38.56018630412974]
+  }
+  ,
+  {
+    "name": {
+      "en": "Abner Winslow",
+      "es": "Abner Winslow",
+      "ua": "Abner Winslow"
+    },
+    "imgSrc": "boss.png",
+    "iconName": "boss.svg",
+    "description": {
+      "en": "Loot: Abner chest key",
+      "es": "Loot: Abner chest key",
+      "ua": "Loot: Abner chest key"
+    },
+    "category": "enemy",
+    "tag": "boss",
+    "position": [30.754687499999978,-17.229818947924862]
+  }
+,
+
+  {
+    "name": {
+      "en": "Abner Winslow Chest",
+      "es": "Abner Winslow Chest",
+      "ua": "Abner Winslow Chest"
+    },
+    "imgSrc": "abner_winslows_chest.png",
+    "iconName": "event chest.svg",
+    "description": {
+      "en": "Loot: money",
+      "es": "Botín: dinero",
+      "ua": "Здобич: гроші"
+    },
+    "category": "loot",
+    "tag": "Event Chest",
+    "position": [37.975781250000026,-19.290299376721094]
+  }
+
+  ,
+
+  {
+    "name": {
+      "en": "Lawson Farm Chest",
+      "es": "Lawson Farm Chest",
+      "ua": "Lawson Farm Chest"
+    },
+    "imgSrc": "lawson_farm_chest.png",
+    "iconName": "event chest.svg",
+    "description": {
+      "en": "Loot: money",
+      "es": "Botín: dinero",
+      "ua": "Здобич: гроші"
+    },
+    "category": "loot",
+    "tag": "Event Chest",
+    "position": [28.61333267481477,-21.935015378298623]
+  }
+,
+
+  {
+    "name": {
+      "en": "Prison Chest",
+      "es": "Prison Chest",
+      "ua": "Prison Chest"
+    },
+    "imgSrc": "prison_chest.png",
+    "iconName": "event chest.svg",
+    "description": {
+      "en": "Loot: money",
+      "es": "Botín: dinero",
+      "ua": "Здобич: гроші"
+    },
+    "category": "loot",
+    "tag": "Event Chest",
+    "position": [-28.645312500000117,-28.692347468774628]
+  }
+,
+{
+  "name": {
+    "en": "Prison Guard Captain",
+    "es": "Prison Guard Captain",
+    "ua": "Prison Guard Captain"
+  },
+  "imgSrc": "boss.png",
+  "iconName": "boss.svg",
+  "description": {
+    "en": "Loot: Prison chest key",
+    "es": "Loot: Prison chest key",
+    "ua": "Loot: Prison chest key"
+  },
+  "category": "enemy",
+  "tag": "boss",
+  "position": [-28.19909894100553,-29.10769995023685]
+}
+
+
+
+  
 ]
