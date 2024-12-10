@@ -13,6 +13,8 @@ export default defineConfig({
         attributions_es: resolve(__dirname, "attributions/es.html"),
         attributions_ua: resolve(__dirname, "attributions/ua.html"),
         arizona_forest: resolve(__dirname, "maps/arizona-forest.html"),
+        arizona_forest: resolve(__dirname, "maps/tennessee-hills.html"),
+        arizona_forest: resolve(__dirname, "maps/mountain-riffs.html"),
       },
     },
   },
