@@ -14,8 +14,6 @@ import "../qtag-selector-content";
 
 const mapId = "arizona-forest"
 
-
-
 // Map
 
 const mapInfo = mapsInfo.filter((map) => map.id === mapId)[0];
@@ -25,18 +23,3 @@ const mapPoints = mapData.getPoints();
 const mapLabels = mapData.getLabels();
 const mapConfig = new MapConfig(mapInfo, mapData.rootPath, mapPoints, mapLabels);
 
-// Initialize QuestTracker
-document.addEventListener('DOMContentLoaded', () => {
-    const questTracker = new QuestTracker('qtag-selector-content', qtags);
-  
-    document.getElementById('qtag-selector-btn').addEventListener('click', () => {
-      const qtagSelector = document.getElementById('qtag-selector');
-      if (qtagSelector) {
-        qtagSelector.style.display = qtagSelector.style.display === 'none' || !qtagSelector.style.display ? 'block' : 'none';
-      }
-    });
-  
-    document.getElementById('reset-button').addEventListener('click', () => {
-      questTracker.reset();
-    });
-  });

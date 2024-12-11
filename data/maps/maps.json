@@ -2,7 +2,7 @@
   {
     "id": "arizona-forest",
     "name": {
-      "en": "A Hot Summer Here Buckaroo!",
+      "en": "",
       "es": "",
       "ua": ""
     },
@@ -28,7 +28,7 @@
   {
     "id": "tennessee-hills",
     "name": {
-      "en": "Close Quarter Combat!",
+      "en": "",
       "es": "",
       "ua": ""
     },
@@ -50,30 +50,5 @@
       "ua": ""
     }
   }
-  ,
-  {
-    "id": "mountain-riffs",
-    "name": {
-      "en": "Embrace the Chill!",
-      "es": "",
-      "ua": ""
-    },
-    "alias": {
-      "en": "Enter",
-      "es": "Enter",
-      "ua": "Enter"
-    },
-    "cardImgSrc": "mrimage.png",
-    "mapImgSrc": "",
-    "resolution": [6826.66675, 6826.66675],
-    "padding": "1900px 1900px 1900px 2020px",
-    "zoom": 1,
-    "minZoom": 1,
-    "maxZoom": 7,
-    "description": {
-      "en": "",
-      "es": "",
-      "ua": ""
-    }
-  }
+  
 ]

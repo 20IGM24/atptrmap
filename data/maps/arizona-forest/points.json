@@ -1599,7 +1599,7 @@
     "imgSrc": "dockwestofburnt.png",
     "iconName": "poi.svg",
     "category": "poi",
-    "tag": "poi",
+    "tag": "camp",
     "position": [29.579076728261015,-14.43516920348435]
   },
   {
@@ -2004,7 +2004,7 @@
       "ua": "Lawman III"
     },
     "imgSrc": "",
-    "iconName": "lawman3.svg",
+    "iconName": "",
     "description": {
       "en": "",
       "es": "",
