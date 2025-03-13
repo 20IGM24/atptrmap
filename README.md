@@ -1,4 +1,4 @@
-# A ExFil Map
+# An ExFil Map
 
 #### Prerequisites
 - You have to use [node version 20](https://nodejs.org/en/download).
